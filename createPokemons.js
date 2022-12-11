@@ -7,11 +7,10 @@ let id = 0;
 const DOMAIN_NAME = process.env.DOMAIN_NAME;
 const PROTOCOL = process.env.PROTOCOL;
 const PORT = process.env.PORT;
-console.log(`DOMAIN_NAME is: ${DOMAIN_NAME}`);
-console.log(`PROTOCOL is: ${PROTOCOL}`);
-console.log(`PORT is: ${PORT}`);
 
 const createPokemonData = async () => {
+  console.log("---start generating pokemon data---");
+  console.log("-----------------------------------");
   let pokemonNewData = await csv().fromFile("pokemons.csv");
 
   pokemonNewData = pokemonNewData
@@ -36,7 +35,8 @@ const createPokemonData = async () => {
   pokemonData["totalPokemons"] = pokemonNewData.length;
 
   fs.writeFileSync("pokemons.json", JSON.stringify(pokemonData));
-  console.log("---processing done---");
+  console.log("-----------------------------------");
+  console.log("----------processing done----------");
 };
 
 // testing
