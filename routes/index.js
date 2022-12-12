@@ -6,4 +6,7 @@ router.get("/", function (req, res, next) {
   res.status(200).send("Welcome to Coderdex Backend");
 });
 
+const pokemonRouter = require("./pokemon.api.js");
+router.use("/pokemons", pokemonRouter);
+
 module.exports = router;
