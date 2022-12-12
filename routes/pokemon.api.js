@@ -7,6 +7,49 @@ function containsOnlyNumbers(str) {
   return /^\d+$/.test(str);
 }
 
+// api to delete pokemon by id
+router.delete("/:pokemonId", (req, res, next) => {
+  try {
+    // get pokemonId parameter
+    const { pokemonId } = req.params;
+
+    // Read data from pokemons.json then parse to JSobject
+    let pokemonDatabase = fs.readFileSync("pokemons.json", "utf-8");
+    pokemonDatabase = JSON.parse(pokemonDatabase);
+    const { data: pokemons } = pokemonDatabase;
+
+    //find pokemon by id
+    const targetPokemonIndex = pokemons.findIndex(
+      (pokemon) => pokemon.id === parseInt(pokemonId)
+    );
+
+    if (targetPokemonIndex < 0) {
+      const exception = new Error(`Pokemon not found`);
+      exception.statusCode = 404;
+      throw exception;
+    }
+
+    //filter data pokemons object
+    const pokemonFiltered = pokemons.filter(
+      (pokemon) => pokemon.id !== parseInt(pokemonId)
+    );
+
+    pokemonDatabase.data = pokemonFiltered;
+    pokemonDatabase.totalPokemons = pokemonFiltered.length;
+
+    //db JSobject to JSON string
+    pokemonDatabase = JSON.stringify(pokemonDatabase);
+
+    //write and save to db.json
+    fs.writeFileSync("pokemons.json", pokemonDatabase);
+
+    //delete send response
+    res.status(200).send({ success: true, message: "Delete successfully" });
+  } catch (error) {
+    next(error);
+  }
+});
+
 // api to get pokemon by id
 router.get("/:pokemonId", (req, res, next) => {
   try {
