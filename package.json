@@ -4,7 +4,8 @@
   "private": true,
   "scripts": {
     "start": "node ./bin/www",
-    "dev": "nodemon ./bin/www"
+    "dev": "nodemon ./bin/www",
+    "create-pokemon": "node createPokemons.js"
   },
   "dependencies": {
     "cookie-parser": "~1.4.4",
