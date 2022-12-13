@@ -119,6 +119,134 @@ router.post("/", (req, res, next) => {
   }
 });
 
+// api to update pokemon by id
+router.put("/:pokemonId", (req, res, next) => {
+  try {
+    const { pokemonId } = req.params;
+    const allowUpdate = ["name", "url", "types"];
+
+    const updates = req.body;
+    const updateKeys = Object.keys(updates);
+
+    //find update request that not allow
+    const notAllow = updateKeys.filter((el) => !allowUpdate.includes(el));
+
+    if (notAllow.length) {
+      const exception = new Error(`Update field not allow`);
+      exception.statusCode = 401;
+      throw exception;
+    }
+
+    // Read data from pokemons.json then parse to JSobject
+    let pokemonDatabase = fs.readFileSync("pokemons.json", "utf-8");
+    pokemonDatabase = JSON.parse(pokemonDatabase);
+    const { data: pokemons } = pokemonDatabase;
+
+    //find pokemon by id
+    const targetPokemonIndex = pokemons.findIndex(
+      (pokemon) => pokemon.id === parseInt(pokemonId)
+    );
+
+    if (targetPokemonIndex < 0) {
+      const exception = new Error(`Pokemon not found`);
+      exception.statusCode = 404;
+      throw exception;
+    }
+
+    // get data from updates
+    const { name, types, url } = updates;
+
+    if (!name || !url) {
+      const exception = new Error(`Missing required data.`);
+      exception.statusCode = 401;
+      throw exception;
+    }
+
+    if (types.length >= 3) {
+      const exception = new Error(`Pokemon can only have one or two types.`);
+      exception.statusCode = 401;
+      throw exception;
+    }
+
+    if (!types[0] && !types[1]) {
+      const exception = new Error(
+        `Missing required data. You must specify type for pokemon.`
+      );
+      exception.statusCode = 401;
+      throw exception;
+    }
+
+    const pokemonTypes = [
+      "bug",
+      "dragon",
+      "fairy",
+      "fire",
+      "ghost",
+      "ground",
+      "normal",
+      "psychic",
+      "steel",
+      "dark",
+      "electric",
+      "fighting",
+      "flyingText",
+      "grass",
+      "ice",
+      "poison",
+      "rock",
+      "water",
+    ];
+
+    // handle pokemon types
+    const pokemonType1 = types[0] || "";
+    const pokemonType2 = types[1] || "";
+
+    let newPokemonTypes = new Set(
+      [
+        _.lowerCase(pokemonType1.trim()),
+        _.lowerCase(pokemonType2.trim()),
+      ].filter((type) => type !== "")
+    );
+    newPokemonTypes = Array.from(newPokemonTypes);
+
+    newPokemonTypes.forEach((type) => {
+      if (!pokemonTypes.includes(type)) {
+        const exception = new Error(`Pokemon's type is invalid.`);
+        exception.statusCode = 401;
+        throw exception;
+      }
+    });
+
+    const pokemonName = _.toLower(name.trim());
+
+    // prepare update values object
+    const updateValues = {
+      name: pokemonName,
+      types: newPokemonTypes,
+      url,
+    };
+
+    const updatedPokemon = {
+      ...pokemons[targetPokemonIndex],
+      ...updateValues,
+    };
+
+    //Update new pokemon to pokemon database
+    pokemonDatabase.data[targetPokemonIndex] = updatedPokemon;
+
+    //db JSobject to JSON string
+    pokemonDatabase = JSON.stringify(pokemonDatabase);
+
+    //write and save to db.json
+    fs.writeFileSync("pokemons.json", pokemonDatabase);
+
+    //put send response
+    res.status(200).send(updatedPokemon);
+  } catch (error) {
+    next(error);
+  }
+});
+
 // api to delete pokemon by id
 router.delete("/:pokemonId", (req, res, next) => {
   try {
