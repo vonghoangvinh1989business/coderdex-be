@@ -1,810 +1,802 @@
-Name,Type1,Type2
-bulbasaur,Grass,Poison
-ivysaur,Grass,Poison
-venusaur,Grass,Poison
-charmander,Fire
-charmeleon,Fire
-charizard,Fire,Flying
-squirtle,Water
-wartortle,Water
-blastoise,Water
-caterpie,Bug
-metapod,Bug
-butterfree,Bug,Flying
-weedle,Bug,Poison
-kakuna,Bug,Poison
-beedrill,Bug,Poison
-pidgey,Normal,Flying
-pidgeotto,Normal,Flying
-pidgeot,Normal,Flying
-rattata,Normal
-raticate,Normal
-spearow,Normal,Flying
-fearow,Normal,Flying
-ekans,Poison
-arbok,Poison
-pikachu,Electric
-raichu,Electric
-sandshrew,Ground
-sandslash,Ground
-nidoran-f,Poison
-nidorina,Poison
-nidoqueen,Poison,Ground
-nidoran-m,Poison
-nidorino,Poison
-nidoking,Poison,Ground
-clefairy,Fairy
-clefable,Fairy
-vulpix,Fire
-ninetales,Fire
-jigglypuff,Normal,Fairy
-wigglytuff,Normal,Fairy
-zubat,Poison,Flying
-golbat,Poison,Flying
-oddish,Grass,Poison
-gloom,Grass,Poison
-vileplume,Grass,Poison
-paras,Bug,Grass
-parasect,Bug,Grass
-venonat,Bug,Poison
-venomoth,Bug,Poison
-diglett,Ground
-dugtrio,Ground
-meowth,Normal
-persian,Normal
-psyduck,Water
-golduck,Water
-mankey,Fighting
-primeape,Fighting
-growlithe,Fire
-arcanine,Fire
-poliwag,Water
-poliwhirl,Water
-poliwrath,Water,Fighting
-abra,Psychic
-kadabra,Psychic
-alakazam,Psychic
-machop,Fighting
-machoke,Fighting
-machamp,Fighting
-bellsprout,Grass,Poison
-weepinbell,Grass,Poison
-victreebel,Grass,Poison
-tentacool,Water,Poison
-tentacruel,Water,Poison
-geodude,Rock,Ground
-graveler,Rock,Ground
-golem,Rock,Ground
-ponyta,Fire
-rapidash,Fire
-slowpoke,Water,Psychic
-slowbro,Water,Psychic
-magnemite,Electric,Steel
-magneton,Electric,Steel
-farfetchd,Normal,Flying
-doduo,Normal,Flying
-dodrio,Normal,Flying
-seel,Water
-dewgong,Water,Ice
-grimer,Poison
-muk,Poison
-shellder,Water
-cloyster,Water,Ice
-gastly,Ghost,Poison
-haunter,Ghost,Poison
-gengar,Ghost,Poison
-onix,Rock,Ground
-drowzee,Psychic
-hypno,Psychic
-krabby,Water
-kingler,Water
-voltorb,Electric
-electrode,Electric
-exeggcute,Grass,Psychic
-exeggutor,Grass,Psychic
-cubone,Ground
-marowak,Ground
-hitmonlee,Fighting
-hitmonchan,Fighting
-lickitung,Normal
-koffing,Poison
-weezing,Poison
-rhyhorn,Ground,Rock
-rhydon,Ground,Rock
-chansey,Normal
-tangela,Grass
-kangaskhan,Normal
-horsea,Water
-seadra,Water
-goldeen,Water
-seaking,Water
-staryu,Water
-starmie,Water,Psychic
-mr-mime,Psychic,Fairy
-scyther,Bug,Flying
-jynx,Ice,Psychic
-electabuzz,Electric
-magmar,Fire
-pinsir,Bug
-tauros,Normal
-magikarp,Water
-gyarados,Water,Flying
-lapras,Water,Ice
-ditto,Normal
-eevee,Normal
-vaporeon,Water
-jolteon,Electric
-flareon,Fire
-porygon,Normal
-omanyte,Rock,Water
-omastar,Rock,Water
-kabuto,Rock,Water
-kabutops,Rock,Water
-aerodactyl,Rock,Flying
-snorlax,Normal
-articuno,Ice,Flying
-zapdos,Electric,Flying
-moltres,Fire,Flying
-dratini,Dragon
-dragonair,Dragon
-dragonite,Dragon,Flying
-mewtwo,Psychic
-mew,Psychic
-chikorita,Grass
-bayleef,Grass
-meganium,Grass
-cyndaquil,Fire
-quilava,Fire
-typhlosion,Fire
-totodile,Water
-croconaw,Water
-feraligatr,Water
-sentret,Normal
-furret,Normal
-hoothoot,Normal,Flying
-noctowl,Normal,Flying
-ledyba,Bug,Flying
-ledian,Bug,Flying
-spinarak,Bug,Poison
-ariados,Bug,Poison
-crobat,Poison,Flying
-chinchou,Water,Electric
-lanturn,Water,Electric
-pichu,Electric
-cleffa,Fairy
-igglybuff,Normal,Fairy
-togepi,Fairy
-togetic,Fairy,Flying
-natu,Psychic,Flying
-xatu,Psychic,Flying
-mareep,Electric
-flaaffy,Electric
-ampharos,Electric
-bellossom,Grass
-marill,Water,Fairy
-azumarill,Water,Fairy
-sudowoodo,Rock
-politoed,Water
-hoppip,Grass,Flying
-skiploom,Grass,Flying
-jumpluff,Grass,Flying
-aipom,Normal
-sunkern,Grass
-sunflora,Grass
-yanma,Bug,Flying
-wooper,Water,Ground
-quagsire,Water,Ground
-espeon,Psychic
-umbreon,Dark
-murkrow,Dark,Flying
-slowking,Water,Psychic
-misdreavus,Ghost
-unown,Psychic
-wobbuffet,Psychic
-girafarig,Normal,Psychic
-pineco,Bug
-forretress,Bug,Steel
-dunsparce,Normal
-gligar,Ground,Flying
-steelix,Steel,Ground
-snubbull,Fairy
-granbull,Fairy
-qwilfish,Water,Poison
-scizor,Bug,Steel
-shuckle,Bug,Rock
-heracross,Bug,Fighting
-sneasel,Dark,Ice
-teddiursa,Normal
-ursaring,Normal
-slugma,Fire
-magcargo,Fire,Rock
-swinub,Ice,Ground
-piloswine,Ice,Ground
-corsola,Water,Rock
-remoraid,Water
-octillery,Water
-delibird,Ice,Flying
-mantine,Water,Flying
-skarmory,Steel,Flying
-houndour,Dark,Fire
-houndoom,Dark,Fire
-kingdra,Water,Dragon
-phanpy,Ground
-donphan,Ground
-porygon2,Normal
-stantler,Normal
-smeargle,Normal
-tyrogue,Fighting
-hitmontop,Fighting
-smoochum,Ice,Psychic
-elekid,Electric
-magby,Fire
-miltank,Normal
-blissey,Normal
-raikou,Electric
-entei,Fire
-suicune,Water
-larvitar,Rock,Ground
-pupitar,Rock,Ground
-tyranitar,Rock,Dark
-lugia,Psychic,Flying
-ho-oh,Fire,Flying
-celebi,Psychic,Grass
-treecko,Grass
-grovyle,Grass
-sceptile,Grass
-torchic,Fire
-combusken,Fire,Fighting
-blaziken,Fire,Fighting
-mudkip,Water
-marshtomp,Water,Ground
-swampert,Water,Ground
-poochyena,Dark
-mightyena,Dark
-zigzagoon,Normal
-linoone,Normal
-wurmple,Bug
-silcoon,Bug
-beautifly,Bug,Flying
-cascoon,Bug
-dustox,Bug,Poison
-lotad,Water,Grass
-lombre,Water,Grass
-ludicolo,Water,Grass
-seedot,Grass
-nuzleaf,Grass,Dark
-shiftry,Grass,Dark
-taillow,Normal,Flying
-swellow,Normal,Flying
-wingull,Water,Flying
-pelipper,Water,Flying
-ralts,Psychic,Fairy
-kirlia,Psychic,Fairy
-gardevoir,Psychic,Fairy
-surskit,Bug,Water
-masquerain,Bug,Flying
-shroomish,Grass
-breloom,Grass,Fighting
-slakoth,Normal
-vigoroth,Normal
-slaking,Normal
-nincada,Bug,Ground
-ninjask,Bug,Flying
-shedinja,Bug,Ghost
-whismur,Normal
-loudred,Normal
-exploud,Normal
-makuhita,Fighting
-hariyama,Fighting
-azurill,Normal,Fairy
-nosepass,Rock
-skitty,Normal
-delcatty,Normal
-sableye,Dark,Ghost
-mawile,Steel,Fairy
-aron,Steel,Rock
-lairon,Steel,Rock
-aggron,Steel,Rock
-meditite,Fighting,Psychic
-medicham,Fighting,Psychic
-electrike,Electric
-manectric,Electric
-plusle,Electric
-minun,Electric
-volbeat,Bug
-illumise,Bug
-roselia,Grass,Poison
-gulpin,Poison
-swalot,Poison
-carvanha,Water,Dark
-sharpedo,Water,Dark
-wailmer,Water
-wailord,Water
-numel,Fire,Ground
-camerupt,Fire,Ground
-torkoal,Fire
-spoink,Psychic
-grumpig,Psychic
-spinda,Normal
-trapinch,Ground
-vibrava,Ground,Dragon
-flygon,Ground,Dragon
-cacnea,Grass
-cacturne,Grass,Dark
-swablu,Normal,Flying
-altaria,Dragon,Flying
-zangoose,Normal
-seviper,Poison
-lunatone,Rock,Psychic
-solrock,Rock,Psychic
-barboach,Water,Ground
-whiscash,Water,Ground
-corphish,Water
-crawdaunt,Water,Dark
-baltoy,Ground,Psychic
-claydol,Ground,Psychic
-lileep,Rock,Grass
-cradily,Rock,Grass
-anorith,Rock,Bug
-armaldo,Rock,Bug
-feebas,Water
-milotic,Water
-castform,Normal
-kecleon,Normal
-shuppet,Ghost
-banette,Ghost
-duskull,Ghost
-dusclops,Ghost
-tropius,Grass,Flying
-chimecho,Psychic
-absol,Dark
-wynaut,Psychic
-snorunt,Ice
-glalie,Ice
-spheal,Ice,Water
-sealeo,Ice,Water
-walrein,Ice,Water
-clamperl,Water
-huntail,Water
-gorebyss,Water
-relicanth,Water,Rock
-luvdisc,Water
-bagon,Dragon
-shelgon,Dragon
-salamence,Dragon,Flying
-beldum,Steel,Psychic
-metang,Steel,Psychic
-metagross,Steel,Psychic
-regirock,Rock
-regice,Ice
-registeel,Steel
-latias,Dragon,Psychic
-latios,Dragon,Psychic
-kyogre,Water
-groudon,Ground
-rayquaza,Dragon,Flying
-jirachi,Steel,Psychic
-deoxys-normal,Psychic
-turtwig,Grass
-grotle,Grass
-torterra,Grass,Ground
-chimchar,Fire
-monferno,Fire,Fighting
-infernape,Fire,Fighting
-piplup,Water
-prinplup,Water
-empoleon,Water,Steel
-starly,Normal,Flying
-staravia,Normal,Flying
-staraptor,Normal,Flying
-bidoof,Normal
-bibarel,Normal,Water
-kricketot,Bug
-kricketune,Bug
-shinx,Electric
-luxio,Electric
-luxray,Electric
-budew,Grass,Poison
-roserade,Grass,Poison
-cranidos,Rock
-rampardos,Rock
-shieldon,Rock,Steel
-bastiodon,Rock,Steel
-burmy,Bug
-wormadam-plant,Bug,Grass
-mothim,Bug,Flying
-combee,Bug,Flying
-vespiquen,Bug,Flying
-pachirisu,Electric
-buizel,Water
-floatzel,Water
-cherubi,Grass
-cherrim,Grass
-shellos,Water
-gastrodon,Water,Ground
-ambipom,Normal
-drifloon,Ghost,Flying
-drifblim,Ghost,Flying
-buneary,Normal
-lopunny,Normal
-mismagius,Ghost
-honchkrow,Dark,Flying
-glameow,Normal
-purugly,Normal
-chingling,Psychic
-stunky,Poison,Dark
-skuntank,Poison,Dark
-bronzor,Steel,Psychic
-bronzong,Steel,Psychic
-bonsly,Rock
-mime-jr,Psychic,Fairy
-happiny,Normal
-chatot,Normal,Flying
-spiritomb,Ghost,Dark
-gible,Dragon,Ground
-gabite,Dragon,Ground
-garchomp,Dragon,Ground
-munchlax,Normal
-riolu,Fighting
-lucario,Fighting,Steel
-hippopotas,Ground
-hippowdon,Ground
-skorupi,Poison,Bug
-drapion,Poison,Dark
-croagunk,Poison,Fighting
-toxicroak,Poison,Fighting
-carnivine,Grass
-finneon,Water
-lumineon,Water
-mantyke,Water,Flying
-snover,Grass,Ice
-abomasnow,Grass,Ice
-weavile,Dark,Ice
-magnezone,Electric,Steel
-lickilicky,Normal
-rhyperior,Ground,Rock
-tangrowth,Grass
-electivire,Electric
-magmortar,Fire
-togekiss,Fairy,Flying
-yanmega,Bug,Flying
-leafeon,Grass
-glaceon,Ice
-gliscor,Ground,Flying
-mamoswine,Ice,Ground
-porygon-z,Normal
-gallade,Psychic,Fighting
-probopass,Rock,Steel
-dusknoir,Ghost
-froslass,Ice,Ghost
-rotom,Electric,Ghost
-uxie,Psychic
-mesprit,Psychic
-azelf,Psychic
-dialga,Steel,Dragon
-palkia,Water,Dragon
-heatran,Fire,Steel
-regigigas,Normal
-giratina-altered,Ghost,Dragon
-cresselia,Psychic
-phione,Water
-manaphy,Water
-darkrai,Dark
-shaymin-land,Grass
-arceus,Normal
-victini,Psychic,Fire
-snivy,Grass
-servine,Grass
-serperior,Grass
-tepig,Fire
-pignite,Fire,Fighting
-emboar,Fire,Fighting
-oshawott,Water
-dewott,Water
-samurott,Water
-patrat,Normal
-watchog,Normal
-lillipup,Normal
-herdier,Normal
-stoutland,Normal
-purrloin,Dark
-liepard,Dark
-pansage,Grass
-simisage,Grass
-pansear,Fire
-simisear,Fire
-panpour,Water
-simipour,Water
-munna,Psychic
-musharna,Psychic
-pidove,Normal,Flying
-tranquill,Normal,Flying
-unfezant,Normal,Flying
-blitzle,Electric
-zebstrika,Electric
-roggenrola,Rock
-boldore,Rock
-gigalith,Rock
-woobat,Psychic,Flying
-swoobat,Psychic,Flying
-drilbur,Ground
-excadrill,Ground,Steel
-audino,Normal
-timburr,Fighting
-gurdurr,Fighting
-conkeldurr,Fighting
-tympole,Water
-palpitoad,Water,Ground
-seismitoad,Water,Ground
-throh,Fighting
-sawk,Fighting
-sewaddle,Bug,Grass
-swadloon,Bug,Grass
-leavanny,Bug,Grass
-venipede,Bug,Poison
-whirlipede,Bug,Poison
-scolipede,Bug,Poison
-cottonee,Grass,Fairy
-whimsicott,Grass,Fairy
-petilil,Grass
-lilligant,Grass
-basculin-red-striped,Water
-sandile,Ground,Dark
-krokorok,Ground,Dark
-krookodile,Ground,Dark
-darumaka,Fire
-darmanitan-standard,Fire
-maractus,Grass
-dwebble,Bug,Rock
-crustle,Bug,Rock
-scraggy,Dark,Fighting
-scrafty,Dark,Fighting
-sigilyph,Psychic,Flying
-yamask,Ghost
-cofagrigus,Ghost
-tirtouga,Water,Rock
-carracosta,Water,Rock
-archen,Rock,Flying
-archeops,Rock,Flying
-trubbish,Poison
-garbodor,Poison
-zorua,Dark
-zoroark,Dark
-minccino,Normal
-cinccino,Normal
-gothita,Psychic
-gothorita,Psychic
-gothitelle,Psychic
-solosis,Psychic
-duosion,Psychic
-reuniclus,Psychic
-ducklett,Water,Flying
-swanna,Water,Flying
-vanillite,Ice
-vanillish,Ice
-vanilluxe,Ice
-deerling,Normal,Grass
-sawsbuck,Normal,Grass
-emolga,Electric,Flying
-karrablast,Bug
-escavalier,Bug,Steel
-foongus,Grass,Poison
-amoonguss,Grass,Poison
-frillish,Water,Ghost
-jellicent,Water,Ghost
-alomomola,Water
-joltik,Bug,Electric
-galvantula,Bug,Electric
-ferroseed,Grass,Steel
-ferrothorn,Grass,Steel
-klink,Steel
-klang,Steel
-klinklang,Steel
-tynamo,Electric
-eelektrik,Electric
-eelektross,Electric
-elgyem,Psychic
-beheeyem,Psychic
-litwick,Ghost,Fire
-lampent,Ghost,Fire
-chandelure,Ghost,Fire
-axew,Dragon
-fraxure,Dragon
-haxorus,Dragon
-cubchoo,Ice
-beartic,Ice
-cryogonal,Ice
-shelmet,Bug
-accelgor,Bug
-stunfisk,Ground,Electric
-mienfoo,Fighting
-mienshao,Fighting
-druddigon,Dragon
-golett,Ground,Ghost
-golurk,Ground,Ghost
-pawniard,Dark,Steel
-bisharp,Dark,Steel
-bouffalant,Normal
-rufflet,Normal,Flying
-braviary,Normal,Flying
-vullaby,Dark,Flying
-mandibuzz,Dark,Flying
-heatmor,Fire
-durant,Bug,Steel
-deino,Dark,Dragon
-zweilous,Dark,Dragon
-hydreigon,Dark,Dragon
-larvesta,Bug,Fire
-volcarona,Bug,Fire
-cobalion,Steel,Fighting
-terrakion,Rock,Fighting
-virizion,Grass,Fighting
-tornadus-incarnate,Flying
-thundurus-incarnate,Electric,Flying
-reshiram,Dragon,Fire
-zekrom,Dragon,Electric
-landorus-incarnate,Ground,Flying
-kyurem,Dragon,Ice
-keldeo-ordinary,Water,Fighting
-meloetta-aria,Normal,Psychic
-genesect,Bug,Steel
-chespin,Grass
-quilladin,Grass
-chesnaught,Grass,Fighting
-fennekin,Fire
-braixen,Fire
-delphox,Fire,Psychic
-froakie,Water
-frogadier,Water
-greninja,Water,Dark
-bunnelby,Normal
-diggersby,Normal,Ground
-fletchling,Normal,Flying
-fletchinder,Fire,Flying
-talonflame,Fire,Flying
-scatterbug,Bug
-spewpa,Bug
-vivillon,Bug,Flying
-litleo,Fire,Normal
-pyroar,Fire,Normal
-flabebe,Fairy
-floette,Fairy
-florges,Fairy
-skiddo,Grass
-gogoat,Grass
-pancham,Fighting
-pangoro,Fighting,Dark
-furfrou,Normal
-espurr,Psychic
-meowstic-male,Psychic
-honedge,Steel,Ghost
-doublade,Steel,Ghost
-aegislash-blade,Steel,Ghost
-spritzee,Fairy
-aromatisse,Fairy
-swirlix,Fairy
-slurpuff,Fairy
-inkay,Dark,Psychic
-malamar,Dark,Psychic
-binacle,Rock,Water
-barbaracle,Rock,Water
-skrelp,Poison,Water
-dragalge,Poison,Dragon
-clauncher,Water
-clawitzer,Water
-helioptile,Electric,Normal
-heliolisk,Electric,Normal
-tyrunt,Rock,Dragon
-tyrantrum,Rock,Dragon
-amaura,Rock,Ice
-aurorus,Rock,Ice
-sylveon,Fairy
-hawlucha,Fighting,Flying
-dedenne,Electric,Fairy
-carbink,Rock,Fairy
-goomy,Dragon
-sliggoo,Dragon
-goodra,Dragon
-klefki,Steel,Fairy
-phantump,Ghost,Grass
-trevenant,Ghost,Grass
-pumpkaboo-average,Ghost,Grass
-gourgeist-average,Ghost,Grass
-bergmite,Ice
-avalugg,Ice
-noibat,Flying,Dragon
-noivern,Flying,Dragon
-xerneas,Fairy
-yveltal,Dark,Flying
-zygarde-50,Dragon,Ground
-diancie,Rock,Fairy
-hoopa-confined,Psychic,Ghost
-volcanion,Fire,Water
-rowlet,Grass,Flying
-dartrix,Grass,Flying
-decidueye,Grass,Ghost
-litten,Fire
-torracat,Fire
-incineroar,Fire,Dark
-popplio,Water
-brionne,Water
-primarina,Water,Fairy
-pikipek,Normal,Flying
-trumbeak,Normal,Flying
-toucannon,Normal,Flying
-yungoos,Normal
-gumshoos,Normal
-grubbin,Bug
-charjabug,Bug,Electric
-vikavolt,Bug,Electric
-crabrawler,Fighting
-crabominable,Fighting,Ice
-oricorio-baile,Fire,Flying
-cutiefly,Bug,Fairy
-ribombee,Bug,Fairy
-rockruff,Rock
-lycanroc-midday,Rock
-wishiwashi-solo,Water
-mareanie,Poison,Water
-toxapex,Poison,Water
-mudbray,Ground
-mudsdale,Ground
-dewpider,Water,Bug
-araquanid,Water,Bug
-fomantis,Grass
-lurantis,Grass
-morelull,Grass,Fairy
-shiinotic,Grass,Fairy
-salandit,Poison,Fire
-salazzle,Poison,Fire
-stufful,Normal,Fighting
-bewear,Normal,Fighting
-bounsweet,Grass
-steenee,Grass
-tsareena,Grass
-comfey,Fairy
-oranguru,Normal,Psychic
-passimian,Fighting
-wimpod,Bug,Water
-golisopod,Bug,Water
-sandygast,Ghost,Ground
-palossand,Ghost,Ground
-pyukumuku,Water
-type-null,Normal
-silvally,Normal
-minior-meteor,Rock,Flying
-komala,Normal
-turtonator,Fire,Dragon
-togedemaru,Electric,Steel
-mimikyu,Ghost,Fairy
-bruxish,Water,Psychic
-drampa,Normal,Dragon
-dhelmise,Ghost,Grass
-jangmo-o,Dragon
-hakamo-o,Dragon,Fighting
-kommo-o,Dragon,Fighting
-tapu-koko,Electric,Fairy
-tapu-lele,Psychic,Fairy
-tapu-bulu,Grass,Fairy
-tapu-fini,Water,Fairy
-cosmog,Psychic
-cosmoem,Psychic
-solgaleo,Psychic,Steel
-lunala,Psychic,Ghost
-nihilego,Rock,Poison
-buzzwole,Bug,Fighting
-pheromosa,Bug,Fighting
-xurkitree,Electric
-celesteela,Steel,Flying
-kartana,Grass,Steel
-guzzlord,Dark,Dragon
-necrozma,Psychic
-magearna,Steel,Fairy
-marshadow,Fighting,Ghost
-poipole,Poison
-naganadel,Poison,Dragon
-stakataka,Rock,Steel
-blacephalon,Fire,Ghost
-zeraora,Electric
-meltan,Steel
-melmetal,Steel
+Name,Category,Type1,Type2,Height,Weight,Ability1,Ability2,Description,Ability3
+Bulbasaur,Seed Pokemon,Grass,Poison,2ft.4in. (0.71m),15.2 lbs (6.9 kg),Overgrow,Chlorophyll,"For some time after its birth, it grows by gaining nourishment from the seed on its back.",
+Ivysaur,Seed Pokemon,Grass,Poison,3ft.3in. (0.99m),28.7 lbs (13.0 kg),Overgrow,Chlorophyll,"When the bud on its back starts swelling, a sweet aroma wafts to indicate the flowers coming bloom.",
+Venusaur,Seed Pokemon,Grass,Poison,6ft.7in. (2.01m),220.5 lbs (100.0 kg),Overgrow,Chlorophyll,"After a rainy day, the flower on its back smells stronger. The scent attracts other Pokemon.",
+Charmander,Lizard Pokemon,Fire,,2ft.0in. (0.61m),18.7 lbs (8.5 kg),Blaze,Solar Power,"The fire on the tip of its tail is a measure of its life. If healthy, its tail burns intensely.",
+Charmeleon,Flame Pokemon,Fire,,3ft.7in. (1.09m),41.9 lbs (19.0 kg),Blaze,Solar Power,"In the rocky mountains where Charmeleon live, their fiery tails shine at night like stars.",
+Charizard,Flame Pokemon,Fire,Flying,5ft.7in. (1.70m),199.5 lbs (90.5 kg),Blaze,Solar Power,It is said that Charizards fire burns hotter if it has experienced harsh battles.,
+Squirtle,Tiny Turtle Pokemon,Water,,1ft.8in. (0.51m),19.8 lbs (9.0 kg),Torrent,Rain Dish,It shelters itself in its shell then strikes back with spouts of water at every opportunity.,
+Wartortle,Turtle Pokemon,Water,,3ft.3in. (0.99m),49.6 lbs (22.5 kg),Torrent,Rain Dish,"It is said to live 10,000 years. Its furry tail is popular as a symbol of longevity.",
+Blastoise,Shellfish Pokemon,Water,,5ft.3in. (1.60m),188.5 lbs (85.5 kg),Torrent,Rain Dish,The jets of water it spouts from the rocket cannons on its shell can punch through thick steel.,
+Caterpie,Worm Pokemon,Bug,,1ft.0in. (0.30m),6.4 lbs (2.9 kg),Shield Dust,Run Away,It releases a stench from its red antenna to repel enemies. It grows by molting repeatedly.,
+Metapod,Cocoon Pokemon,Bug,,2ft.4in. (0.71m),21.8 lbs (9.9 kg),Shed Skin,,A steel-hard shell protects its tender body. It quietly endures hardships while awaiting evolution.,
+Butterfree,Butterfly Pokemon,Bug,Flying,3ft.7in. (1.09m),70.5 lbs (32.0 kg),Compound Eyes,Tinted Lens,It loves the honey of flowers and can locate flower patches that have even tiny amounts of pollen.,
+Weedle,Hairy Bug Pokemon,Bug,Poison,1ft.0in. (0.30m),7.1 lbs (3.2 kg),Shield Dust,Run Away,It eats its weight in leaves every day. It fends off attackers with the needle on its head.,
+Kakuna,Cocoon Pokemon,Bug,Poison,2ft.0in. (0.61m),22 lbs (10.0 kg),Shed Skin,,"While awaiting evolution, it hides from predators under leaves and in nooks of branches.",
+Beedrill,Poison Bee Pokemon,Bug,Poison,3ft.3in. (0.99m),65 lbs (29.5 kg),Swarm,Sniper,"Its best attack involves flying around at high speed, striking with poison needles, then flying off.",
+Pidgey,Tiny Bird Pokemon,Normal,Flying,1ft.0in. (0.30m),4 lbs (1.8 kg),Keen Eye,Tangled Feet,"It is docile and prefers to avoid conflict. If disturbed, however, it can ferociously strike back.",Big Pecks
+Pidgeotto,Bird Pokemon,Normal,Flying,3ft.7in. (1.09m),66.1 lbs (30.0 kg),Keen Eye,Tangled Feet,"It flies over its wide territory in search of prey, downing it with its highly developed claws.",Big Pecks
+Pidgeot,Bird Pokemon,Normal,Flying,4ft.11in. (1.50m),87.1 lbs (39.5 kg),Keen Eye,Tangled Feet,"It flies over its wide territory in search of prey, downing it with its highly developed claws.",Big Pecks
+Rattata,Mouse Pokemon,Normal,,1ft.0in. (0.30m),7.7 lbs (3.5 kg),Guts,Run Away,"It searches for food all day. It gnaws on hard objects to wear down its fangs, which grow constantly during its lifetime.",Hustle
+Raticate,Mouse Pokemon,Normal,,2ft.4in. (0.71m),40.8 lbs (18.5 kg),Guts,Run Away,"With its long fangs, this surprisingly violent Pokemon can gnaw away even thick concrete with ease.",Hustle
+Spearow,Tiny Bird Pokemon,Normal,Flying,1ft.0in. (0.30m),4.4 lbs (2.0 kg),Keen Eye,Sniper,"It flaps its small wings busily to fly. Using its beak, it searches in grass for prey.",
+Fearow,Beak Pokemon,Normal,Flying,3ft.11in. (1.19m),83.8 lbs (38.0 kg),Keen Eye,Sniper,It has the stamina to fly all day on its broad wings. It fights by using its sharp beak.,
+Ekans,Snake Pokemon,Poison,,6ft.7in. (2.01m),15.2 lbs (6.9 kg),Intimidate,Shed Skin,It sneaks through grass without making a sound and strikes unsuspecting prey from behind.,Unnerve
+Arbok,Cobra Pokemon,Poison,,11ft.6in. (3.51m),143.3 lbs (65.0 kg),Intimidate,Shed Skin,The pattern on its belly is for intimidation. It constricts foes while they are frozen in fear.,Unnerve
+Pikachu,Mouse Pokemon,Electric,,1ft.4in. (0.41m),13.2 lbs (6.0 kg),Static,Lightning Rod,It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.,
+Raichu,Mouse Pokemon,Electric,,2ft.7in. (0.79m),66.1 lbs (30.0 kg),Static,Lightning Rod,"Its tail discharges electricity into the ground, protecting it from getting shocked.",
+Sandshrew,Mouse Pokemon,Ground,,2ft.0in. (0.61m),26.5 lbs (12.0 kg),Sand Veil,Sand Rush,"It digs deep burrows to live in. When in danger, it rolls up its body to withstand attacks.",
+Sandslash,Mouse Pokemon,Ground,,3ft.3in. (0.99m),65 lbs (29.5 kg),Sand Veil,Sand Rush,The spikes on its body are made up of its hardened hide. It rolls up and attacks foes with its spikes.,
+Nidoran-f,Poison Pin Pokemon,Poison,,1ft.4in. (0.41m),15.4 lbs (7.0 kg),Poison Point,Rivalry,"While it does not prefer to fight, even one drop of the poison it secretes from barbs can be fatal.",Hustle
+Nidorina,Poison Pin Pokemon,Poison,,2ft.7in. (0.79m),44.1 lbs (20.0 kg),Poison Point,Rivalry,"When it senses danger, it raises all the barbs on its body. These barbs grow slower than Nidorinos.",Hustle
+Nidoqueen,Drill Pokemon,Poison,Ground,4ft.3in. (1.30m),132.3 lbs (60.0 kg),Poison Point,Rivalry,Its entire body is armored with hard scales. It will protect the young in its burrow with its life.,Sheer Force
+Nidoran-M,Poison Pin Pokemon,Poison,,1ft.8in. (0.51m),19.8 lbs (9.0 kg),Poison Point,Rivalry,It scans its surroundings by raising its ears out of the grass. Its toxic horn is for protection.,Hustle
+Nidorino,Poison Pin Pokemon,Poison,,2ft.11in. (0.89m),43 lbs (19.5 kg),Poison Point,Rivalry,"It has a violent disposition and stabs foes with its horn, which oozes poison upon impact.",Hustle
+Nidoking,Drill Pokemon,Poison,Ground,4ft.7in. (1.40m),136.7 lbs (62.0 kg),Poison Point,Rivalry,One swing of its mighty tail can snap a telephone pole as if it were a matchstick.,Sheer Force
+Clefairy,Fairy Pokemon,Fairy,,2ft.0in. (0.61m),16.5 lbs (7.5 kg),Cute Charm,Magic Guard,"On nights with a full moon, Clefairy gather from all over and dance. Bathing in moonlight makes them float.",Friend Guard
+Clefable,Fairy Pokemon,Fairy,,4ft.3in. (1.30m),88.2 lbs (40.0 kg),Cute Charm,Magic Guard,"Their ears are sensitive enough to hear a pin drop from over a mile away, so theyre usually found in quiet places.",Unaware
+Vulpix,Fox Pokemon,Fire,,2ft.0in. (0.61m),21.8 lbs (9.9 kg),Flash Fire,Drought,"As each tail grows, its fur becomes more lustrous. When held, it feels slightly warm.",
+Ninetales,Fox Pokemon,Fire,,3ft.7in. (1.09m),43.9 lbs (19.9 kg),Flash Fire,Drought,"Each of its nine tails is imbued with supernatural power, and it can live for a thousand years.",
+Jigglypuff,Balloon Pokemon,Normal,Fairy,1ft.8in. (0.51m),12.1 lbs (5.5 kg),Competitive,Cute Charm,"Looking into its cute, round eyes makes it start singing a song so pleasant listeners cant help but fall asleep.",Friend Guard
+Wigglytuff,Balloon Pokemon,Normal,Fairy,3ft.3in. (0.99m),26.5 lbs (12.0 kg),Competitive,Cute Charm,"Its fine fur feels so pleasant, those who accidentally touch it cannot take their hands away.",Frisk
+Zubat,Bat Pokemon,Poison,Flying,2ft.7in. (0.79m),16.5 lbs (7.5 kg),Inner Focus,Infiltrator,"It does not need eyes, because it emits ultrasonic waves to check its surroundings while it flies.",
+Golbat,Bat Pokemon,Poison,Flying,5ft.3in. (1.60m),121.3 lbs (55.0 kg),Inner Focus,Infiltrator,"Flitting around in the dead of night, it sinks its fangs into its prey and drains a nearly fatal amount of blood.",
+Oddish,Weed Pokemon,Grass,Poison,1ft.8in. (0.51m),11.9 lbs (5.4 kg),Chlorophyll,Run Away,It often plants its root feet in the ground during the day and sows seeds as it walks about at night.,
+Gloom,Weed Pokemon,Grass,Poison,2ft.7in. (0.79m),19 lbs (8.6 kg),Chlorophyll,Stench,"The honey it drools from its mouth smells so atrocious, it can curl noses more than a mile away.",
+Vileplume,Flower Pokemon,Grass,Poison,3ft.11in. (1.19m),41 lbs (18.6 kg),Chlorophyll,Effect Spore,"Its petals are the largest in the world. As it walks, it scatters extremely allergenic pollen.",
+Paras,Mushroom Pokemon,Bug,Grass,1ft.0in. (0.30m),11.9 lbs (5.4 kg),Dry Skin,Effect Spore,Mushrooms named tochukaso grow on its back. They grow along with the host Paras.,Damp
+Parasect,Mushroom Pokemon,Bug,Grass,3ft.3in. (0.99m),65 lbs (29.5 kg),Dry Skin,Effect Spore,A mushroom grown larger than the hosts body controls Parasect. It scatters poisonous spores.,Damp
+Venonat,Insect Pokemon,Bug,Poison,3ft.3in. (0.99m),66.1 lbs (30.0 kg),Compound Eyes,Tinted Lens,"Its big eyes are actually clusters of tiny eyes. At night, its kind is drawn by light.",Run Away
+Venomoth,Poison Moth Pokemon,Bug,Poison,4ft.11in. (1.50m),27.6 lbs (12.5 kg),Shield Dust,Tinted Lens,It flutters its wings to scatter dustlike scales. The scales leach toxins if they contact skin.,Wonder Skin
+Diglett,Mole Pokemon,Ground,,0ft.8in. (0.20m),1.8 lbs (0.8 kg),Arena Trap,Sand Veil,"A Pokemon that lives underground. Because of its dark habitat, it is repelled by bright sunlight.",Sand Force
+Dugtrio,Mole Pokemon,Ground,,2ft.4in. (0.71m),73.4 lbs (33.3 kg),Arena Trap,Sand Veil,"Its three heads move alternately, driving it through tough soil to depths of over 60 miles.",Sand Force
+Meowth,Scratch Cat Pokemon,Normal,,1ft.4in. (0.41m),9.3 lbs (4.2 kg),Pickup,Technician,"It is nocturnal in nature. If it spots something shiny, its eyes glitter brightly.",Unnerve
+Persian,Classy Cat Pokemon,Normal,,3ft.3in. (0.99m),70.5 lbs (32.0 kg),Limber,Technician,"A very haughty Pokemon. Among fans, the size of the jewel in its forehead is a topic of much talk.",Unnerve
+Psyduck,Duck Pokemon,Water,,2ft.7in. (0.79m),43.2 lbs (19.6 kg),Cloud Nine,Damp,"When headaches stimulate its brain cells, which are usually inactive, it can use a mysterious power.",Swift Swim
+Golduck,Duck Pokemon,Water,,5ft.7in. (1.70m),168.9 lbs (76.6 kg),Cloud Nine,Damp,"When its forehead shines mysteriously, Golduck can use the full extent of its power.",Swift Swim
+Mankey,Pig Monkey Pokemon,Fighting,,1ft.8in. (0.51m),61.7 lbs (28.0 kg),Anger Point,Vital Spirit,"It lives in treetop colonies. If one becomes enraged, the whole colony rampages for no reason.",Defiant
+Primeape,Pig Monkey Pokemon,Fighting,,3ft.3in. (0.99m),70.5 lbs (32.0 kg),Anger Point,Vital Spirit,"It grows angry if you see its eyes and gets angrier if you run. If you beat it, it gets even madder.",Defiant
+Growlithe,Puppy Pokemon,Fire,,2ft.4in. (0.71m),41.9 lbs (19.0 kg),Flash Fire,Intimidate,"Extremely loyal to its Trainer, it will bark at those who approach the Trainer unexpectedly and run them out of town.",Justified
+Arcanine,Legendary Pokemon,Fire,,6ft.3in. (1.91m),341.7 lbs (155.0 kg),Flash Fire,Intimidate,"The sight of it running over 6,200 miles in a single day and night has captivated many people.",Justified
+Poliwag,Tadpole Pokemon,Water,,2ft.0in. (0.61m),27.3 lbs (12.4 kg),Damp,Water Absorb,"Its skin is so thin, its internal organs are visible. It has trouble walking on its newly grown feet.",Swift Swim
+Poliwhirl,Tadpole Pokemon,Water,,3ft.3in. (0.99m),44.1 lbs (20.0 kg),Damp,Water Absorb,The spiral pattern on its belly subtly undulates. Staring at it gradually causes drowsiness.,Swift Swim
+Poliwrath,Tadpole Pokemon,Water,Fighting,4ft.3in. (1.30m),119 lbs (54.0 kg),Damp,Water Absorb,"With its extremely tough muscles, it can keep swimming in the Pacific Ocean without resting.",Swift Swim
+Abra,Psi Pokemon,Psychic,,2ft.11in. (0.89m),43 lbs (19.5 kg),Inner Focus,Synchronize,Using its psychic power is such a strain on its brain that it needs to sleep for 18 hours a day.,Magic Guard
+Kadabra,Psi Pokemon,Psychic,,4ft.3in. (1.30m),124.6 lbs (56.5 kg),Inner Focus,Synchronize,It stares at its silver spoon to focus its mind. It emits more alpha waves while doing so.,Magic Guard
+Alakazam,Psi Pokemon,Psychic,,4ft.11in. (1.50m),105.8 lbs (48.0 kg),Inner Focus,Synchronize,The spoons clutched in its hands are said to have been created by its psychic powers.,Magic Guard
+Machop,Superpower Pokemon,Fighting,,2ft.7in. (0.79m),43 lbs (19.5 kg),Guts,No Guard,"Though small in stature, it is powerful enough to easily heft and throw a number of Geodude at once.",Steadfast
+Machoke,Superpower Pokemon,Fighting,,4ft.11in. (1.50m),155.4 lbs (70.5 kg),Guts,No Guard,It happily carries heavy cargo to toughen up. It willingly does hard work for people.,Steadfast
+Machamp,Superpower Pokemon,Fighting,,5ft.3in. (1.60m),286.6 lbs (130.0 kg),Guts,No Guard,Its four muscled arms slam foes with powerful punches and chops at blinding speed.,Steadfast
+Bellsprout,Flower Pokemon,Grass,Poison,2ft.4in. (0.71m),8.8 lbs (4.0 kg),Chlorophyll,Gluttony,It prefers hot and humid environments. It is quick at capturing prey with its vines.,
+Weepinbell,Flycatcher Pokemon,Grass,Poison,3ft.3in. (0.99m),14.1 lbs (6.4 kg),Chlorophyll,Gluttony,A Pokemon that appears to be a plant. It captures unwary prey by dousing them with a toxic powder.,
+Victreebel,Flycatcher Pokemon,Grass,Poison,5ft.7in. (1.70m),34.2 lbs (15.5 kg),Chlorophyll,Gluttony,"It pools in its mouth a fluid with a honey-like scent, which is really an acid that dissolves anything.",
+Tentacool,Jellyfish Pokemon,Water,Poison,2ft.11in. (0.89m),100.3 lbs (45.5 kg),Clear Body,Liquid Ooze,"Because its body is almost entirely composed of water, it shrivels up if it is washed ashore.",Rain Dish
+Tentacruel,Jellyfish Pokemon,Water,Poison,5ft.3in. (1.60m),121.3 lbs (55.0 kg),Clear Body,Liquid Ooze,It extends its 80 tentacles to form an encircling poisonous net that is difficult to escape.,Rain Dish
+Geodude,Rock Pokemon,Rock,Ground,1ft.4in. (0.41m),44.1 lbs (20.0 kg),Rock Head,Sturdy,"At rest, it looks just like a rock. Carelessly stepping on it will make it swing its fists angrily.",Sand Veil
+Graveler,Rock Pokemon,Rock,Ground,3ft.3in. (0.99m),231.5 lbs (105.0 kg),Rock Head,Sturdy,"It rolls on mountain paths to move. Once it builds momentum, no Pokemon can stop it without difficulty.",Sand Veil
+Golem,Megaton Pokemon,Rock,Ground,4ft.7in. (1.40m),661.4 lbs (300.0 kg),Rock Head,Sturdy,"Even dynamite cant harm its hard, boulder-like body. It sheds its hide just once a year.",Sand Veil
+Ponyta,Fire Horse Pokemon,Fire,,3ft.3in. (0.99m),66.1 lbs (30.0 kg),Flash Fire,Run Away,"As a newborn, it can barely stand. However, through galloping, its legs are made tougher and faster.",Flame Body
+Rapidash,Fire Horse Pokemon,Fire,,5ft.7in. (1.70m),209.4 lbs (95.0 kg),Flash Fire,Run Away,"When at an all-out gallop, its blazing mane sparkles, enhancing its beautiful appearance.",Flame Body
+Slowpoke,Dopey Pokemon,Water,Psychic,3ft.11in. (1.19m),79.4 lbs (36.0 kg),Oblivious,Own Tempo,"Although slow, it is skilled at fishing with its tail. It does not feel pain if its tail is bitten.",Regenerator
+Slowbro,Hermit Crab Pokemon,Water,Psychic,5ft.3in. (1.60m),173.1 lbs (78.5 kg),Oblivious,Own Tempo,"Though usually dim witted, it seems to become inspired if the Shellder on its tail bites down.",Regenerator
+Magnemite,Magnet Pokemon,Electric,Steel,1ft.0in. (0.30m),13.2 lbs (6.0 kg),Magnet Pull,Sturdy,"The electromagnetic waves emitted by the units at the sides of its head expel antigravity, which allows it to float.",Analytic
+Magneton,Magnet Pokemon,Electric,Steel,3ft.3in. (0.99m),132.3 lbs (60.0 kg),Magnet Pull,Sturdy,The stronger electromagnetic waves from the three linked Magnemite are enough to dry out surrounding moisture.,Analytic
+Farfetch'd,Wild Duck Pokemon,Normal,Flying,2ft.7in. (0.79m),33.1 lbs (15.0 kg),Inner Focus,Keen Eye,It cant live without the stalk it holds. Thats why it defends the stalk from attackers with its life.,Defiant
+Doduo,Twin Bird Pokemon,Normal,Flying,4ft.7in. (1.40m),86.4 lbs (39.2 kg),Early Bird,Run Away,The brains in its two heads appear to communicate emotions to each other with a telepathic power.,Tangled Feet
+Dodrio,Triple Bird Pokemon,Normal,Flying,5ft.11in. (1.80m),187.8 lbs (85.2 kg),Early Bird,Run Away,"When Doduo evolves into this odd breed, one of its heads splits into two. It runs at nearly 40 mph.",Tangled Feet
+Seel,Sea Lion Pokemon,Water,,3ft.7in. (1.09m),198.4 lbs (90.0 kg),Hydration,Thick Fat,"The colder it gets, the better it feels. It joyfully swims around oceans so cold that they are filled with floating ice.",Ice Body
+Dewgong,Sea Lion Pokemon,Water,Ice,5ft.7in. (1.70m),264.6 lbs (120.0 kg),Hydration,Thick Fat,"Its streamlined body has low resistance, and it swims around cold oceans at a speed of eight knots.",Ice Body
+Grimer,Sludge Pokemon,Poison,,2ft.11in. (0.89m),66.1 lbs (30.0 kg),Stench,Sticky Hold,"Born from sludge, these Pokemon now gather in polluted places and increase the bacteria in their bodies.",Poison Touch
+Muk,Sludge Pokemon,Poison,,3ft.11in. (1.19m),66.1 lbs (30.0 kg),Stench,Sticky Hold,"Its so stinky! Muks body contains toxic elements, and any plant will wilt when it passes by.",Poison Touch
+Shellder,Bivalve Pokemon,Water,,1ft.0in. (0.30m),8.8 lbs (4.0 kg),Shell Armor,Skill Link,It swims backward by opening and closing its two shells. Its large tongue is always kept hanging out.,Overcoat
+Cloyster,Bivalve Pokemon,Water,Ice,4ft.11in. (1.50m),292.1 lbs (132.5 kg),Shell Armor,Skill Link,It fights by keeping its shell tightly shut for protection and by shooting spikes to repel foes.,Overcoat
+Gastly,Gas Pokemon,Ghost,Poison,4ft.3in. (1.30m),0.2 lbs (0.1 kg),Levitate,,"Born from gases, anyone would faint if engulfed by its gaseous body, which contains poison.",
+Haunter,Gas Pokemon,Ghost,Poison,5ft.3in. (1.60m),0.2 lbs (0.1 kg),Levitate,,It likes to lurk in the dark and tap shoulders with a gaseous hand. Its touch causes endless shuddering.,
+Gengar,Shadow Pokemon,Ghost,Poison,4ft.11in. (1.50m),89.3 lbs (40.5 kg),Levitate,,The leer that floats in darkness belongs to a Gengar delighting in casting curses on people.,
+Onix,Rock Snake Pokemon,Rock,Ground,28ft.10in. (8.79m),463 lbs (210.0 kg),Rock Head,Sturdy,"Opening its large mouth, it ingests massive amounts of soil and creates long tunnels.",Weak Armor
+Drowzee,Hypnosis Pokemon,Psychic,,3ft.3in. (0.99m),71.4 lbs (32.4 kg),Forewarn,Insomnia,It can tell what people are dreaming by sniffing with its big nose. It loves fun dreams.,Inner Focus
+Hypno,Hypnosis Pokemon,Psychic,,5ft.3in. (1.60m),166.7 lbs (75.6 kg),Forewarn,Insomnia,"Seeing its swinging pendulum can induce sleep in three seconds, even in someone who just woke up.",Inner Focus
+Krabby,River Crab Pokemon,Water,,1ft.4in. (0.41m),14.3 lbs (6.5 kg),Hyper Cutter,Shell Armor,It lives in burrows dug on sandy beaches. Its pincers fully grow back if they are broken in battle.,Sheer Force
+Kingler,Pincer Pokemon,Water,,4ft.3in. (1.30m),132.3 lbs (60.0 kg),Hyper Cutter,Shell Armor,"The larger pincer has 10,000- horsepower strength. However, it is so heavy, it is difficult to aim.",Sheer Force
+Voltorb,Ball Pokemon,Electric,,1ft.8in. (0.51m),22.9 lbs (10.4 kg),Soundproof,Static,It looks just like a Pok Ball. It is dangerous because it may electrocute or explode on contact.,Aftermath
+Electrode,Ball Pokemon,Electric,,3ft.11in. (1.19m),146.8 lbs (66.6 kg),Soundproof,Static,It is known to drift on winds if it is bloated to bursting with stored electricity.,Aftermath
+Exeggcute,Egg Pokemon,Grass,Psychic,1ft.4in. (0.41m),5.5 lbs (2.5 kg),Chlorophyll,Harvest,Its six eggs converse using telepathy. They can quickly gather if they become separated.,
+Exeggutor,Coconut Pokemon,Grass,Psychic,6ft.7in. (2.01m),264.6 lbs (120.0 kg),Chlorophyll,Harvest,"It is called The Walking Jungle. If a head grows too big, it falls off and becomes an Exeggcute.",
+Cubone,Lonely Pokemon,Ground,,1ft.4in. (0.41m),14.3 lbs (6.5 kg),Lightning Rod,Rock Head,"When it thinks of its dead mother, it cries. Its crying makes the skull it wears rattle hollowly.",Battle Armor
+Marowak,Bone Keeper Pokemon,Ground,,3ft.3in. (0.99m),99.2 lbs (45.0 kg),Lightning Rod,Rock Head,"From its birth, this savage Pokemon constantly holds bones. It is skilled in using them as weapons.",Battle Armor
+Hitmonlee,Kicking Pokemon,Fighting,,4ft.11in. (1.50m),109.8 lbs (49.8 kg),Limber,Reckless,Its legs can stretch double. First-time foes are startled by its extensible reach.,Unburden
+Hitmonchan,Punching Pokemon,Fighting,,4ft.7in. (1.40m),110.7 lbs (50.2 kg),Iron Fist,Keen Eye,The arm-twisting punches it throws pulverize even concrete. It rests after three minutes of fighting.,Inner Focus
+Lickitung,Licking Pokemon,Normal,,3ft.11in. (1.19m),144.4 lbs (65.5 kg),Oblivious,Own Tempo,"Being licked by its long, saliva-covered tongue leaves a tingling sensation. Extending its tongue retracts its tail.",Cloud Nine
+Koffing,Poison Gas Pokemon,Poison,,2ft.0in. (0.61m),2.2 lbs (1.0 kg),Levitate,,"Toxic gas is held within its thin, balloon-shaped body, so it can cause massive explosions.",
+Weezing,Poison Gas Pokemon,Poison,,3ft.11in. (1.19m),20.9 lbs (9.5 kg),Levitate,,Inhaling toxic fumes from trash and mixing them inside its body lets it spread an even fouler stench.,
+Rhyhorn,Spikes Pokemon,Ground,Rock,3ft.3in. (0.99m),253.5 lbs (115.0 kg),Lightning Rod,Rock Head,"Its powerful tackles can destroy anything. However, it is too slow witted to help people work.",Reckless
+Rhydon,Drill Pokemon,Ground,Rock,6ft.3in. (1.91m),264.6 lbs (120.0 kg),Lightning Rod,Rock Head,"Standing on its hind legs freed its forelegs and made it smarter. It is very forgetful, however.",Reckless
+Chansey,Egg Pokemon,Normal,,3ft.7in. (1.09m),76.3 lbs (34.6 kg),Natural Cure,Serene Grace,A kindly Pokemon that lays highly nutritious eggs and shares them with injured Pokmon or people.,Healer
+Tangela,Vine Pokemon,Grass,,3ft.3in. (0.99m),77.2 lbs (35.0 kg),Chlorophyll,Leaf Guard,"Many writhing vines cover it, so its true identity remains unknown. The blue vines grow its whole life long.",Regenerator
+Kangaskhan,Parent Pokemon,Normal,,7ft.3in. (2.21m),176.4 lbs (80.0 kg),Early Bird,Scrappy,It raises its offspring in its belly pouch. It lets the baby out to play only when it feels safe.,Inner Focus
+Horsea,Dragon Pokemon,Water,,1ft.4in. (0.41m),17.6 lbs (8.0 kg),Sniper,Swift Swim,"It makes its nest in the shade of corals. If it senses danger, it spits murky ink and flees.",Damp
+Seadra,Dragon Pokemon,Water,,3ft.11in. (1.19m),55.1 lbs (25.0 kg),Poison Point,Sniper,Its spines provide protection. Its fins and bones are prized as traditional-medicine ingredients.,Damp
+Goldeen,Goldfish Pokemon,Water,,2ft.0in. (0.61m),33.1 lbs (15.0 kg),Swift Swim,Water Veil,"Though it appears very elegant when swimming with fins unfurled, it can jab powerfully with its horn.",Lightning Rod
+Seaking,Goldfish Pokemon,Water,,4ft.3in. (1.30m),86 lbs (39.0 kg),Swift Swim,Water Veil,"In autumn, its body becomes more fatty in preparing to propose to a mate. It takes on beautiful colors.",Lightning Rod
+Staryu,Star Shape Pokemon,Water,,2ft.7in. (0.79m),76.1 lbs (34.5 kg),Illuminate,Natural Cure,"As long as its red core remains, it can regenerate its body instantly, even if its torn apart.",Analytic
+Starmie,Mysterious Pokemon,Water,Psychic,3ft.7in. (1.09m),176.4 lbs (80.0 kg),Illuminate,Natural Cure,Its core shines in many colors and sends radio signals into space to communicate with something.,Analytic
+Mr. Mime,Barrier Pokemon,Psychic,Fairy,4ft.3in. (1.30m),120.2 lbs (54.5 kg),Filter,Soundproof,It shapes an invisible wall in midair by minutely vibrating its fingertips to stop molecules in the air.,Technician
+Scyther,Mantis Pokemon,Bug,Flying,4ft.11in. (1.50m),123.5 lbs (56.0 kg),Swarm,Technician,The sharp scythes on its forearms become increasingly sharp by cutting through hard objects.,Steadfast
+Jynx,Human Shape Pokemon,Ice,Psychic,4ft.7in. (1.40m),89.5 lbs (40.6 kg),Forewarn,Oblivious,"Its cries sound like human speech. However, it is impossible to tell what it is trying to say.",Dry Skin
+Electabuzz,Electric Pokemon,Electric,,3ft.7in. (1.09m),66.1 lbs (30.0 kg),Static,Vital Spirit,Research is progressing on storing lightning in Electabuzz so this energy can be used at any time.,
+Magmar,Spitfire Pokemon,Fire,,4ft.3in. (1.30m),98.1 lbs (44.5 kg),Flame Body,Vital Spirit,"The scorching fire exhaled by Magmar forms heat waves around its body, making it hard to see the Pokemon clearly.",
+Pinsir,Stag Beetle Pokemon,Bug,,4ft.11in. (1.50m),121.3 lbs (55.0 kg),Hyper Cutter,Mold Breaker,It grips prey with its powerful pincers and will not let go until the prey is torn in half.,Moxie
+Tauros,Wild Bull Pokemon,Normal,,4ft.7in. (1.40m),194.9 lbs (88.4 kg),Anger Point,Intimidate,"Once it takes aim at its foe, it makes a headlong charge. It is famous for its violent nature.",Sheer Force
+Magikarp,Fish Pokemon,Water,,2ft.11in. (0.89m),22 lbs (10.0 kg),Swift Swim,Rattled,"A Magikarp living for many years can leap a mountain using Splash. The move remains useless, though.",
+Gyarados,Atrocious Pokemon,Water,Flying,21ft.4in. (6.50m),518.1 lbs (235.0 kg),Intimidate,Moxie,"Once it begins to rampage, a Gyarados will burn everything down, even in a harsh storm.",
+Lapras,Transport Pokemon,Water,Ice,8ft.2in. (2.49m),485 lbs (220.0 kg),Shell Armor,Water Absorb,"Able to understand human speech and very intelligent, it loves to swim in the sea with people on its back.",Hydration
+Ditto,Transform Pokemon,Normal,,1ft.0in. (0.30m),8.8 lbs (4.0 kg),Limber,Imposter,"It can reconstitute its entire cellular structure to change into what it sees, but it returns to normal when it relaxes.",
+Eevee,Evolution Pokemon,Normal,,1ft.0in. (0.30m),14.3 lbs (6.5 kg),Adaptability,Run Away,"Thanks to its unstable genetic makeup, this special Pokemon conceals many different possible evolutions.",Anticipation
+Vaporeon,Bubble Jet Pokemon,Water,,3ft.3in. (0.99m),63.9 lbs (29.0 kg),Water Absorb,Hydration,"Its cell composition is similar to water molecules. As a result, it cant be seen when it melts away into water.",
+Jolteon,Lightning Pokemon,Electric,,2ft.7in. (0.79m),54 lbs (24.5 kg),Volt Absorb,Quick Feet,"By storing electricity in its body, it can shoot its bristlelike fur like a barrage of missiles.",
+Flareon,Flame Pokemon,Fire,,2ft.11in. (0.89m),55.1 lbs (25.0 kg),Flash Fire,Guts,"Inhaled air is carried to its flame sac, heated, and exhaled as fire that reaches over 3,000 degrees F.",
+Porygon,Virtual Pokemon,Normal,,2ft.7in. (0.79m),80.5 lbs (36.5 kg),Download,Trace,A man-made Pokemon created using advanced scientific means. It can move freely in cyberspace.,Analytic
+Omanyte,Spiral Pokemon,Rock,Water,1ft.4in. (0.41m),16.5 lbs (7.5 kg),Shell Armor,Swift Swim,A Pokemon that was resurrected from a fossil using modern science. It swam in ancient seas.,Weak Armor
+Omastar,Spiral Pokemon,Rock,Water,3ft.3in. (0.99m),77.2 lbs (35.0 kg),Shell Armor,Swift Swim,It is thought that this Pokemon became extinct because its spiral shell grew too large.,Weak Armor
+Kabuto,Shellfish Pokemon,Rock,Water,1ft.8in. (0.51m),25.4 lbs (11.5 kg),Battle Armor,Swift Swim,It is thought to have inhabited beaches 300 million years ago. It is protected by a stiff shell.,Weak Armor
+Kabutops,Shellfish Pokemon,Rock,Water,4ft.3in. (1.30m),89.3 lbs (40.5 kg),Battle Armor,Swift Swim,It is thought that this Pokemon came onto land because its prey adapted to life on land.,Weak Armor
+Aerodactyl,Fossil Pokemon,Rock,Flying,5ft.11in. (1.80m),130.1 lbs (59.0 kg),Pressure,Rock Head,A Pokemon that roamed the skies in the dinosaur era. Its teeth are like saw blades.,Unnerve
+Snorlax,Sleeping Pokemon,Normal,,6ft.11in. (2.11m),1014.1 lbs (460.0 kg),Immunity,Thick Fat,"When its belly is full, it becomes too lethargic to even lift a finger, so it is safe to bounce on its belly.",Gluttony
+Articuno,Freeze Pokemon,Ice,Flying,5ft.7in. (1.70m),122.1 lbs (55.4 kg),Pressure,Snow Cloak,A legendary bird Pokemon. It can create blizzards by freezing moisture in the air.,
+Zapdos,Electric Pokemon,Electric,Flying,5ft.3in. (1.60m),116 lbs (52.6 kg),Pressure,Lightning Rod,A legendary Pokemon that is said to live in thunderclouds. It freely controls lightning bolts.,
+Moltres,Flame Pokemon,Fire,Flying,6ft.7in. (2.01m),132.3 lbs (60.0 kg),Pressure,Flame Body,One of the legendary bird Pokemon. It is said that its appearance indicates the coming of spring.,
+Dratini,Dragon Pokemon,Dragon,,5ft.11in. (1.80m),7.3 lbs (3.3 kg),Shed Skin,Marvel Scale,It is called the Mirage Pokemon because so few have seen it. Its shed skin has been found.,
+Dragonair,Dragon Pokemon,Dragon,,13ft.1in. (3.99m),36.4 lbs (16.5 kg),Shed Skin,Marvel Scale,"If its body takes on an aura, the weather changes instantly. It is said to live in seas and lakes.",
+Dragonite,Dragon Pokemon,Dragon,Flying,7ft.3in. (2.21m),463 lbs (210.0 kg),Inner Focus,Multiscale,It is said to make its home somewhere in the sea. It guides crews of shipwrecks to shore.,
+Mewtwo,Genetic Pokemon,Psychic,,6ft.7in. (2.01m),269 lbs (122.0 kg),Pressure,Unnerve,A Pokemon created by recombining Mews genes. Its said to have the most savage heart among Pokmon.,
+Mew,New Species Pokemon,Psychic,,1ft.4in. (0.41m),8.8 lbs (4.0 kg),Synchronize,,"Mew is said to possess the genetic composition of all Pokemon. It is capable of making itself invisible at will, so it entirely avoids notice even if it approaches people.",
+Chikorita,Leaf Pokemon,Grass,,(0.9m),(6.4 kg),Overgrow,Leaf Guard,Description not available yet,
+Bayleef,Leaf Pokemon,Grass,,(1.2m),(15.8 kg),Overgrow,Leaf Guard,Description not available yet,
+Meganium,Herb Pokemon,Grass,,(1.8m),(100.5 kg),Overgrow,Leaf Guard,Description not available yet,
+Cyndaquil,Fire Mouse Pokemon,Fire,,(0.5m),(7.9 kg),Blaze,Flash Fire,Description not available yet,
+Quilava,Volcano Pokemon,Fire,,(0.9m),(19 kg),Blaze,Flash Fire,Description not available yet,
+Typhlosion,Volcano Pokemon,Fire,,(1.7m),(79.5 kg),Blaze,Flash Fire,Description not available yet,
+Totodile,Big Jaw Pokemon,Water,,(0.6m),(9.5 kg),Torrent,Sheer Force,Description not available yet,
+Croconaw,Big Jaw Pokemon,Water,,(1.1m),(25 kg),Torrent,Sheer Force,Description not available yet,
+Feraligatr,Big Jaw Pokemon,Water,,(2.3m),(88.8 kg),Torrent,Sheer Force,Description not available yet,
+Sentret,Scout Pokemon,Normal,,(0.8m),(6 kg),Run Away,Keen Eye,Description not available yet,Frisk
+Furret,Long Body Pokemon,Normal,,(1.8m),(32.5 kg),Run Away,Keen Eye,Description not available yet,Frisk
+Hoothoot,Owl Pokemon,Normal,Flying,(0.7m),(21.2 kg),Insomnia,Keen Eye,Description not available yet,Tinted Lens
+Noctowl,Owl Pokemon,Normal,Flying,(1.6m),(40.8 kg),Insomnia,Keen Eye,Description not available yet,Tinted Lens
+Ledyba,Five Star Pokemon,Bug,Flying,(1m),(10.8 kg),Swarm,Early Bird,Description not available yet,Rattled
+Ledian,Five Star Pokemon,Bug,Flying,(1.4m),(35.6 kg),Swarm,Early Bird,Description not available yet,Iron Fist
+Spinarak,String Spit Pokemon,Bug,Poison,(0.5m),(8.5 kg),Swarm,Insomnia,Description not available yet,Sniper
+Ariados,Long Leg Pokemon,Bug,Poison,(1.1m),(33.5 kg),Swarm,Insomnia,Description not available yet,Sniper
+Crobat,Bat Pokemon,Poison,Flying,(1.8m),(75 kg),Inner Focus,Infiltrator,Description not available yet,
+Chinchou,Angler Pokemon,Water,Electric,(0.5m),(12 kg),Volt Absorb,Illuminate,Description not available yet,Water Absorb
+Lanturn,Light Pokemon,Water,Electric,(1.2m),(22.5 kg),Volt Absorb,Illuminate,Description not available yet,Water Absorb
+Pichu,Tiny Mouse Pokemon,Electric,,(0.3m),(2 kg),Static,Lightningrod,Description not available yet,
+Cleffa,Star Shape Pokemon,Fairy,,(0.3m),(3 kg),Cute Charm,Magic Guard,Description not available yet,Friend Guard
+Igglybuff,Balloon Pokemon,Normal,Fairy,(0.3m),(1 kg),Cute Charm,Competitive,Description not available yet,Friend Guard
+Togepi,Spike Ball Pokemon,Fairy,,(0.3m),(1.5 kg),Hustle,Serene Grace,Description not available yet,Super Luck
+Togetic,Happiness Pokemon,Fairy,Flying,(0.6m),(3.2 kg),Hustle,Serene Grace,Description not available yet,Super Luck
+Natu,Little Bird Pokemon,Psychic,Flying,(0.2m),(2 kg),Synchronize,Early Bird,Description not available yet,Magic Bounce
+Xatu,Mystic Pokemon,Psychic,Flying,(1.5m),(15 kg),Synchronize,Early Bird,Description not available yet,Magic Bounce
+Mareep,Wool Pokemon,Electric,,(0.6m),(7.8 kg),Static,Plus,Description not available yet,
+Flaaffy,Wool Pokemon,Electric,,(0.8m),(13.3 kg),Static,Plus,Description not available yet,
+Ampharos,Light Pokemon,Electric,,(1.4m),(61.5 kg),Static,Plus,Description not available yet,
+Bellossom,Flower Pokemon,Grass,,(0.4m),(5.8 kg),Chlorophyll,Healer,Description not available yet,
+Marill,Aquamouse Pokemon,Water,Fairy,(0.4m),(8.5 kg),Thick Fat,Huge Power,Description not available yet,Sap Sipper
+Azumarill,Aquarabbit Pokemon,Water,Fairy,(0.8m),(28.5 kg),Thick Fat,Huge Power,Description not available yet,Sap Sipper
+Sudowoodo,Imitation Pokemon,Rock,,(1.2m),(38 kg),Sturdy,Rock Head,Description not available yet,Rattled
+Politoed,Frog Pokemon,Water,,(1.1m),(33.9 kg),Water Absorb,Damp,Description not available yet,Drizzle
+Hoppip,Cottonweed Pokemon,Grass,Flying,(0.4m),(0.5 kg),Chlorophyll,Leaf Guard,Description not available yet,Infiltrator
+Skiploom,Cottonweed Pokemon,Grass,Flying,(0.6m),(1 kg),Chlorophyll,Leaf Guard,Description not available yet,Infiltrator
+Jumpluff,Cottonweed Pokemon,Grass,Flying,(0.8m),(3 kg),Chlorophyll,Leaf Guard,Description not available yet,Infiltrator
+Aipom,Long Tail Pokemon,Normal,,(0.8m),(11.5 kg),Run Away,Pickup,Description not available yet,Skill Link
+Sunkern,Seed Pokemon,Grass,,(0.3m),(1.8 kg),Chlorophyll,Solar Power,Description not available yet,Early Bird
+Sunflora,Sun Pokemon,Grass,,(0.8m),(8.5 kg),Chlorophyll,Solar Power,Description not available yet,Early Bird
+Yanma,Clear Wing Pokemon,Bug,Flying,(1.2m),(38 kg),Speed Boost,Compoundeyes,Description not available yet,Frisk
+Wooper,Water Fish Pokemon,Water,Ground,(0.4m),(8.5 kg),Damp,Water Absorb,Description not available yet,Unaware
+Quagsire,Water Fish Pokemon,Water,Ground,(1.4m),(75 kg),Damp,Water Absorb,Description not available yet,Unaware
+Espeon,Sun Pokemon,Psychic,,(0.9m),(26.5 kg),Synchronize,Magic Bounce,Description not available yet,
+Umbreon,Moonlight Pokemon,Dark,,(1m),(27 kg),Synchronize,Inner Focus,Description not available yet,
+Murkrow,Darkness Pokemon,Dark,Flying,(0.5m),(2.1 kg),Insomnia,Super Luck,Description not available yet,Prankster
+Slowking,Royal Pokemon,Water,Psychic,(2m),(79.5 kg),Oblivious,Own Tempo,Description not available yet,Regenerator
+Misdreavus,Screech Pokemon,Ghost,,(0.7m),(1 kg),Levitate,,Description not available yet,
+Unown,Symbol Pokemon,Psychic,,(0.5m),(5 kg),Levitate,,Description not available yet,
+Wobbuffet,Patient Pokemon,Psychic,,(1.3m),(28.5 kg),Shadow Tag,Telepathy,Description not available yet,
+Girafarig,Long Neck Pokemon,Normal,Psychic,(1.5m),(41.5 kg),Inner Focus,Early Bird,Description not available yet,Sap Sipper
+Pineco,Bagworm Pokemon,Bug,,(0.6m),(7.2 kg),Sturdy,Overcoat,Description not available yet,
+Forretress,Bagworm Pokemon,Bug,Steel,(1.2m),(125.8 kg),Sturdy,Overcoat,Description not available yet,
+Dunsparce,Land Snake Pokemon,Normal,,(1.5m),(14 kg),Serene Grace,Run Away,Description not available yet,Rattled
+Gligar,Flyscorpion Pokemon,Ground,Flying,(1.1m),(64.8 kg),Hyper Cutter,Sand Veil,Description not available yet,Immunity
+Steelix,Iron Snake Pokemon,Steel,Ground,(9.2m),(400 kg),Rock Head,Sturdy,Description not available yet,Sheer Force
+Snubbull,Fairy Pokemon,Fairy,,(0.6m),(7.8 kg),Intimidate,Run Away,Description not available yet,Rattled
+Granbull,Fairy Pokemon,Fairy,,(1.4m),(48.7 kg),Intimidate,Quick Feet,Description not available yet,Rattled
+Qwilfish,Balloon Pokemon,Water,Poison,(0.5m),(3.9 kg),Poison Point,Swift Swim,Description not available yet,Intimidate
+Scizor,Pincer Pokemon,Bug,Steel,(1.8m),(118 kg),Swarm,Technician,Description not available yet,Light Metal
+Shuckle,Mold Pokemon,Bug,Rock,(0.6m),(20.5 kg),Sturdy,Gluttony,Description not available yet,Contrary
+Heracross,Singlehorn Pokemon,Bug,Fighting,(1.5m),(54 kg),Swarm,Guts,Description not available yet,Moxie
+Sneasel,Sharp Claw Pokemon,Dark,Ice,(0.9m),(28 kg),Inner Focus,Keen Eye,Description not available yet,Pickpocket
+Teddiursa,Little Bear Pokemon,Normal,,(0.6m),(8.8 kg),Pickup,Quick Feet,Description not available yet,Honey Gather
+Ursaring,Hibernator Pokemon,Normal,,(1.8m),(125.8 kg),Guts,Quick Feet,Description not available yet,Unnerve
+Slugma,Lava Pokemon,Fire,,(0.7m),(35 kg),Magma Armor,Flame Body,Description not available yet,Weak Armor
+Magcargo,Lava Pokemon,Fire,Rock,(0.8m),(55 kg),Magma Armor,Flame Body,Description not available yet,Weak Armor
+Swinub,Pig Pokemon,Ice,Ground,(0.4m),(6.5 kg),Oblivious,Snow Cloak,Description not available yet,Thick Fat
+Piloswine,Swine Pokemon,Ice,Ground,(1.1m),(55.8 kg),Oblivious,Snow Cloak,Description not available yet,Thick Fat
+Corsola,Coral Pokemon,Water,Rock,(0.6m),(5 kg),Hustle,Natural Cure,Description not available yet,Regenerator
+Remoraid,Jet Pokemon,Water,,(0.6m),(12 kg),Hustle,Sniper,Description not available yet,Moody
+Octillery,Jet Pokemon,Water,,(0.9m),(28.5 kg),Suction Cups,Sniper,Description not available yet,Moody
+Delibird,Delivery Pokemon,Ice,Flying,(0.9m),(16 kg),Vital Spirit,Hustle,Description not available yet,Insomnia
+Mantine,Kite Pokemon,Water,Flying,(2.1m),(220 kg),Swift Swim,Water Absorb,Description not available yet,Water Veil
+Skarmory,Armor Bird Pokemon,Steel,Flying,(1.7m),(50.5 kg),Keen Eye,Sturdy,Description not available yet,Weak Armor
+Houndour,Dark Pokemon,Dark,Fire,(0.6m),(10.8 kg),Early Bird,Flash Fire,Description not available yet,Unnerve
+Houndoom,Dark Pokemon,Dark,Fire,(1.4m),(35 kg),Early Bird,Flash Fire,Description not available yet,Unnerve
+Kingdra,Dragon Pokemon,Water,Dragon,(1.8m),(152 kg),Swift Swim,Sniper,Description not available yet,Damp
+Phanpy,Long Nose Pokemon,Ground,,(0.5m),(33.5 kg),Pickup,Sand Veil,Description not available yet,
+Donphan,Armor Pokemon,Ground,,(1.1m),(120 kg),Sturdy,Sand Veil,Description not available yet,
+Porygon2,Virtual Pokemon,Normal,,(0.6m),(32.5 kg),Trace,Download,Description not available yet,Analytic
+Stantler,Big Horn Pokemon,Normal,,(1.4m),(71.2 kg),Intimidate,Frisk,Description not available yet,Sap Sipper
+Smeargle,Painter Pokemon,Normal,,(1.2m),(58 kg),Own Tempo,Technician,Description not available yet,Moody
+Tyrogue,Scuffle Pokemon,Fighting,,(0.7m),(21 kg),Guts,Steadfast,Description not available yet,Vital Spirit
+Hitmontop,Handstand Pokemon,Fighting,,(1.4m),(48 kg),Intimidate,Technician,Description not available yet,Steadfast
+Smoochum,Kiss Pokemon,Ice,Psychic,(0.4m),(6 kg),Oblivious,Forewarn,Description not available yet,Hydration
+Elekid,Electric Pokemon,Electric,,(0.6m),(23.5 kg),Static,Vital Spirit,Description not available yet,
+Magby,Live Coal Pokemon,Fire,,(0.7m),(21.4 kg),Flame Body,Vital Spirit,Description not available yet,
+Miltank,Milk Cow Pokemon,Normal,,(1.2m),(75.5 kg),Thick Fat,Scrappy,Description not available yet,Sap Sipper
+Blissey,Happiness Pokemon,Normal,,(1.5m),(46.8 kg),Natural Cure,Serene Grace,Description not available yet,Healer
+Raikou,Thunder Pokemon,Electric,,(1.9m),(178 kg),Pressure,Inner Focus,Description not available yet,
+Entei,Volcano Pokemon,Fire,,(2.1m),(198 kg),Pressure,Inner Focus,Description not available yet,
+Suicune,Aurora Pokemon,Water,,(2m),(187 kg),Pressure,Inner Focus,Description not available yet,
+Larvitar,Rock Skin Pokemon,Rock,Ground,(0.6m),(72 kg),Guts,Sand Veil,Description not available yet,
+Pupitar,Hard Shell Pokemon,Rock,Ground,(1.2m),(152 kg),Shed Skin,,Description not available yet,
+Tyranitar,Armor Pokemon,Rock,Dark,(2m),(202 kg),Sand Stream,Unnerve,Description not available yet,
+Lugia,Diving Pokemon,Psychic,Flying,(5.2m),(216 kg),Pressure,Multiscale,Description not available yet,
+Ho-Oh,Rainbow Pokemon,Fire,Flying,(3.8m),(199 kg),Pressure,Regenerator,Description not available yet,
+Celebi,Time Travel Pokemon,Psychic,Grass,(0.6m),(5 kg),Natural Cure,,Description not available yet,
+Treecko,Wood Gecko Pokemon,Grass,,(0.5m),(5 kg),Overgrow,Unburden,Description not available yet,
+Grovyle,Wood Gecko Pokemon,Grass,,(0.9m),(21.6 kg),Overgrow,Unburden,Description not available yet,
+Sceptile,Forest Pokemon,Grass,,(1.7m),(52.2 kg),Overgrow,Unburden,Description not available yet,
+Torchic,Chick Pokemon,Fire,,(0.4m),(2.5 kg),Blaze,Speed Boost,Description not available yet,
+Combusken,Young Fowl Pokemon,Fire,Fighting,(0.9m),(19.5 kg),Blaze,Speed Boost,Description not available yet,
+Blaziken,Blaze Pokemon,Fire,Fighting,(1.9m),(52 kg),Blaze,Speed Boost,Description not available yet,
+Mudkip,Mud Fish Pokemon,Water,,(0.4m),(7.6 kg),Torrent,Damp,Description not available yet,
+Marshtomp,Mud Fish Pokemon,Water,Ground,(0.7m),(28 kg),Torrent,Damp,Description not available yet,
+Swampert,Mud Fish Pokemon,Water,Ground,(1.5m),(81.9 kg),Torrent,Damp,Description not available yet,
+Poochyena,Bite Pokemon,Dark,,(0.5m),(13.6 kg),Run Away,Quick Feet,Description not available yet,Rattled
+Mightyena,Bite Pokemon,Dark,,(1m),(37 kg),Intimidate,Quick Feet,Description not available yet,Moxie
+Zigzagoon,Tiny Racoon Pokemon,Normal,,(0.4m),(17.5 kg),Pickup,Gluttony,Description not available yet,Quick Feet
+Linoone,Rush Pokemon,Normal,,(0.5m),(32.5 kg),Pickup,Gluttony,Description not available yet,Quick Feet
+Wurmple,Worm Pokemon,Bug,,(0.3m),(3.6 kg),Shield Dust,Run Away,Description not available yet,
+Silcoon,Cocoon Pokemon,Bug,,(0.6m),(10 kg),Shed Skin,,Description not available yet,
+Beautifly,Butterfly Pokemon,Bug,Flying,(1m),(28.4 kg),Swarm,Rivalry,Description not available yet,
+Cascoon,Cocoon Pokemon,Bug,,(0.7m),(11.5 kg),Shed Skin,,Description not available yet,
+Dustox,Poison Moth Pokemon,Bug,Poison,(1.2m),(31.6 kg),Shield Dust,Compoundeyes,Description not available yet,
+Lotad,Water Weed Pokemon,Water,Grass,(0.5m),(2.6 kg),Swift Swim,Rain Dish,Description not available yet,Own Tempo
+Lombre,Jolly Pokemon,Water,Grass,(1.2m),(32.5 kg),Swift Swim,Rain Dish,Description not available yet,Own Tempo
+Ludicolo,Carefree Pokemon,Water,Grass,(1.5m),(55 kg),Swift Swim,Rain Dish,Description not available yet,Own Tempo
+Seedot,Acorn Pokemon,Grass,,(0.5m),(4 kg),Chlorophyll,Early Bird,Description not available yet,Pickpocket
+Nuzleaf,Wily Pokemon,Grass,Dark,(1m),(28 kg),Chlorophyll,Early Bird,Description not available yet,Pickpocket
+Shiftry,Wickid Pokemon,Grass,Dark,(1.3m),(59.6 kg),Chlorophyll,Early Bird,Description not available yet,Pickpocket
+Taillow,TinySwallow Pokemon,Normal,Flying,(0.3m),(2.3 kg),Guts,Scrappy,Description not available yet,
+Swellow,Swallow Pokemon,Normal,Flying,(0.7m),(19.8 kg),Guts,Scrappy,Description not available yet,
+Wingull,Seagull Pokemon,Water,Flying,(0.6m),(9.5 kg),Keen Eye,Hydration,Description not available yet,Rain Dish
+Pelipper,Water Bird Pokemon,Water,Flying,(1.2m),(28 kg),Keen Eye,Drizzle,Description not available yet,Rain Dish
+Ralts,Feeling Pokemon,Psychic,Fairy,(0.4m),(6.6 kg),Synchronize,Trace,Description not available yet,Telepathy
+Kirlia,Emotion Pokemon,Psychic,Fairy,(0.8m),(20.2 kg),Synchronize,Trace,Description not available yet,Telepathy
+Gardevoir,Embrace Pokemon,Psychic,Fairy,(1.6m),(48.4 kg),Synchronize,Trace,Description not available yet,Telepathy
+Surskit,Pond Skater Pokemon,Bug,Water,(0.5m),(1.7 kg),Swift Swim,Rain Dish,Description not available yet,
+Masquerain,Eyeball Pokemon,Bug,Flying,(0.8m),(3.6 kg),Intimidate,Unnerve,Description not available yet,
+Shroomish,Mushroom Pokemon,Grass,,(0.4m),(4.5 kg),Effect Spore,Poison Heal,Description not available yet,Quick Feet
+Breloom,Mushroom Pokemon,Grass,Fighting,(1.2m),(39.2 kg),Effect Spore,Poison Heal,Description not available yet,Technician
+Slakoth,Slacker Pokemon,Normal,,(0.8m),(24 kg),Truant,,Description not available yet,
+Vigoroth,Wild Monkey Pokemon,Normal,,(1.4m),(46.5 kg),Vital Spirit,,Description not available yet,
+Slaking,Lazy Pokemon,Normal,,(2m),(130.5 kg),Truant,,Description not available yet,
+Nincada,Trainee Pokemon,Bug,Ground,(0.5m),(5.5 kg),Compoundeyes,Run Away,Description not available yet,
+Ninjask,Ninja Pokemon,Bug,Flying,(0.8m),(12 kg),Speed Boost,Infiltrator,Description not available yet,
+Shedinja,Shed Pokemon,Bug,Ghost,(0.8m),(1.2 kg),Wonder Guard,,Description not available yet,
+Whismur,Whisper Pokemon,Normal,,(0.6m),(16.3 kg),Soundproof,Rattled,Description not available yet,
+Loudred,Big Voice Pokemon,Normal,,(1m),(40.5 kg),Soundproof,Scrappy,Description not available yet,
+Exploud,Loud Noise Pokemon,Normal,,(1.5m),(84 kg),Soundproof,Scrappy,Description not available yet,
+Makuhita,Guts Pokemon,Fighting,,(1m),(86.4 kg),Thick Fat,Guts,Description not available yet,Sheer Force
+Hariyama,Arm Thrust Pokemon,Fighting,,(2.3m),(253.8 kg),Thick Fat,Guts,Description not available yet,Sheer Force
+Azurill,Polka Dot Pokemon,Normal,Fairy,(0.2m),(2 kg),Thick Fat,Huge Power,Description not available yet,Sap Sipper
+Nosepass,Compass Pokemon,Rock,,(1m),(97 kg),Sturdy,Magnet Pull,Description not available yet,Sand Force
+Skitty,Kitten Pokemon,Normal,,(0.6m),(11 kg),Cute Charm,Normalize,Description not available yet,Wonder Skin 
+Delcatty,Prim Pokemon,Normal,,(1.1m),(32.6 kg),Cute Charm,Normalize,Description not available yet,Wonder Skin 
+Sableye,Darkness Pokemon,Dark,Ghost,(0.5m),(11 kg),Keen Eye,Stall,Description not available yet,Prankster
+Mawile,Deceiver Pokemon,Steel,Fairy,(0.6m),(11.5 kg),Hyper Cutter,Intimidate,Description not available yet,Sheer Force
+Aron,Iron Armor Pokemon,Steel,Rock,(0.4m),(60 kg),Sturdy,Rock Head,Description not available yet,Heavy Metal
+Lairon,Iron Armor Pokemon,Steel,Rock,(0.9m),(120 kg),Sturdy,Rock Head,Description not available yet,Heavy Metal
+Aggron,Iron Armor Pokemon,Steel,Rock,(2.1m),(360 kg),Sturdy,Rock Head,Description not available yet,Heavy Metal
+Meditite,Meditate Pokemon,Fighting,Psychic,(0.6m),(11.2 kg),Pure Power,Telepathy,Description not available yet,
+Medicham,Meditate Pokemon,Fighting,Psychic,(1.3m),(31.5 kg),Pure Power,Telepathy,Description not available yet,
+Electrike,Lightning Pokemon,Electric,,(0.6m),(15.2 kg),Static,Lightningrod,Description not available yet,Minus
+Manectric,Discharge Pokemon,Electric,,(1.5m),(40.2 kg),Static,Lightningrod,Description not available yet,Minus
+Plusle,Cheering Pokemon,Electric,,(0.4m),(4.2 kg),Plus,Lightningrod,Description not available yet,
+Minun,Cheering Pokemon,Electric,,(0.4m),(4.2 kg),Minus,Volt Absorb,Description not available yet,
+Volbeat,Firefly Pokemon,Bug,,(0.7m),(17.7 kg),Illuminate,Swarm,Description not available yet,Prankster
+Illumise,Firefly Pokemon,Bug,,(0.6m),(17.7 kg),Oblivious,Tinted Lens,Description not available yet,Prankster
+Roselia,Thorn Pokemon,Grass,Poison,(0.3m),(2 kg),Natural Cure,Poison Point,Description not available yet,Leaf Guard
+Gulpin,Stomach Pokemon,Poison,,(0.4m),(10.3 kg),Liquid Ooze,Sticky Hold,Description not available yet,Gluttony
+Swalot,Poison Bag Pokemon,Poison,,(1.7m),(80 kg),Liquid Ooze,Sticky Hold,Description not available yet,Gluttony
+Carvanha,Savage Pokemon,Water,Dark,(0.8m),(20.8 kg),Rough Skin,Speed Boost,Description not available yet,
+Sharpedo,Brutal Pokemon,Water,Dark,(1.8m),(88.8 kg),Rough Skin,Speed Boost,Description not available yet,
+Wailmer,Ball Whale Pokemon,Water,,(2m),(130 kg),Water Veil,Oblivious,Description not available yet,Pressure
+Wailord,Float Whale Pokemon,Water,,(14.5m),(398 kg),Water Veil,Oblivious,Description not available yet,Pressure
+Numel,Numb Pokemon,Fire,Ground,(0.7m),(24 kg),Oblivious,Simple,Description not available yet,Own Tempo
+Camerupt,Eruption Pokemon,Fire,Ground,(1.9m),(220 kg),Magma Armor,Solid Rock,Description not available yet,Anger Point
+Torkoal,Coal Pokemon,Fire,,(0.5m),(80.4 kg),White Smoke,Drought,Description not available yet,Shell Armor
+Spoink,Bounce Pokemon,Psychic,,(0.7m),(30.6 kg),Thick Fat,Own Tempo,Description not available yet,Gluttony
+Grumpig,Manipulate Pokemon,Psychic,,(0.9m),(71.5 kg),Thick Fat,Own Tempo,Description not available yet,Gluttony
+Spinda,Spot Panda Pokemon,Normal,,(1.1m),(5 kg),Own Tempo,Tangled Feet,Description not available yet,Contrary
+Trapinch,Ant Pit Pokemon,Ground,,(0.7m),(15 kg),Hyper Cutter,Arena Trap,Description not available yet,Sheer Force
+Vibrava,Vibration Pokemon,Ground,Dragon,(1.1m),(15.3 kg),Levitate,,Description not available yet,
+Flygon,Mystic Pokemon,Ground,Dragon,(2m),(82 kg),Levitate,,Description not available yet,
+Cacnea,Cactus Pokemon,Grass,,(0.4m),(51.3 kg),Sand Veil,Water Absorb,Description not available yet,
+Cacturne,Scarecrow Pokemon,Grass,Dark,(1.3m),(77.4 kg),Sand Veil,Water Absorb,Description not available yet,
+Swablu,Cotton Bird Pokemon,Normal,Flying,(0.4m),(1.2 kg),Natural Cure,Cloud Nine,Description not available yet,
+Altaria,Humming Pokemon,Dragon,Flying,(1.1m),(20.6 kg),Natural Cure,Cloud Nine,Description not available yet,
+Zangoose,Cat Ferret Pokemon,Normal,,(1.3m),(40.3 kg),Immunity,Toxic Boost,Description not available yet,
+Seviper,Fang Snake Pokemon,Poison,,(2.7m),(52.5 kg),Shed Skin,Infiltrator,Description not available yet,
+Lunatone,Meteorite Pokemon,Rock,Psychic,(1m),(168 kg),Levitate,,Description not available yet,
+Solrock,Meteorite Pokemon,Rock,Psychic,(1.2m),(154 kg),Levitate,,Description not available yet,
+Barboach,Whiskers Pokemon,Water,Ground,(0.4m),(1.9 kg),Oblivious,Anticipation,Description not available yet,Hydration
+Whiscash,Whiskers Pokemon,Water,Ground,(0.9m),(23.6 kg),Oblivious,Anticipation,Description not available yet,Hydration
+Corphish,Ruffian Pokemon,Water,,(0.6m),(11.5 kg),Hyper Cutter,Shell Armor,Description not available yet,Adaptability
+Crawdaunt,Rogue Pokemon,Water,Dark,(1.1m),(32.8 kg),Hyper Cutter,Shell Armor,Description not available yet,Adaptability
+Baltoy,Clay Doll Pokemon,Ground,Psychic,(0.5m),(21.5 kg),Levitate,,Description not available yet,
+Claydol,Clay Doll Pokemon,Ground,Psychic,(1.5m),(108 kg),Levitate,,Description not available yet,
+Lileep,Sea Lily Pokemon,Rock,Grass,(1m),(23.8 kg),Suction Cups,Storm Drain,Description not available yet,
+Cradily,Barnacle Pokemon,Rock,Grass,(1.5m),(60.4 kg),Suction Cups,Storm Drain,Description not available yet,
+Anorith,Old Shrimp Pokemon,Rock,Bug,(0.7m),(12.5 kg),Battle Armor,Swift Swim,Description not available yet,
+Armaldo,Plate Pokemon,Rock,Bug,(1.5m),(68.2 kg),Battle Armor,Swift Swim,Description not available yet,
+Feebas,Fish Pokemon,Water,,(0.6m),(7.4 kg),Swift Swim,Oblivious,Description not available yet,Adaptability
+Milotic,Tender Pokemon,Water,,(6.2m),(162 kg),Marvel Scale,Competitive,Description not available yet,Cute Charm
+Castform,Weather Pokemon,Normal,,(0.3m),(0.8 kg),Forecast,,Description not available yet,
+Kecleon,Color Swap Pokemon,Normal,,(1m),(22 kg),Color Change,Protean,Description not available yet,
+Shuppet,Puppet Pokemon,Ghost,,(0.6m),(2.3 kg),Insomnia,Frisk,Description not available yet,Cursed Body
+Banette,Marionette Pokemon,Ghost,,(1.1m),(12.5 kg),Insomnia,Frisk,Description not available yet,Cursed Body
+Duskull,Requiem Pokemon,Ghost,,(0.8m),(15 kg),Levitate,Frisk,Description not available yet,
+Dusclops,Beckon Pokemon,Ghost,,(1.6m),(30.6 kg),Pressure,Frisk,Description not available yet,
+Tropius,Fruit Pokemon,Grass,Flying,(2m),(100 kg),Chlorophyll,Solar Power,Description not available yet,Harvest
+Chimecho,Wind Chime Pokemon,Psychic,,(0.6m),(1 kg),Levitate,,Description not available yet,
+Absol,Disaster Pokemon,Dark,,(1.2m),(47 kg),Pressure,Super Luck,Description not available yet,Justified
+Wynaut,Bright Pokemon,Psychic,,(0.6m),(14 kg),Shadow Tag,Telepathy,Description not available yet,
+Snorunt,Snow Hat Pokemon,Ice,,(0.7m),(16.8 kg),Inner Focus,Ice Body,Description not available yet,Moody
+Glalie,Face Pokemon,Ice,,(1.5m),(256.5 kg),Inner Focus,Ice Body,Description not available yet,Moody
+Spheal,Clap Pokemon,Ice,Water,(0.8m),(39.5 kg),Thick Fat,Ice Body,Description not available yet,Oblivious
+Sealeo,Ball Roll Pokemon,Ice,Water,(1.1m),(87.6 kg),Thick Fat,Ice Body,Description not available yet,Oblivious
+Walrein,Ice Break Pokemon,Ice,Water,(1.4m),(150.6 kg),Thick Fat,Ice Body,Description not available yet,Oblivious
+Clamperl,Bivalve Pokemon,Water,,(0.4m),(52.5 kg),Shell Armor,Rattled,Description not available yet,
+Huntail,Deep Sea Pokemon,Water,,(1.7m),(27 kg),Swift Swim,Water Veil,Description not available yet,
+Gorebyss,South Sea Pokemon,Water,,(1.8m),(22.6 kg),Swift Swim,Hydration,Description not available yet,
+Relicanth,Longevity Pokemon,Water,Rock,(1m),(23.4 kg),Swift Swim,Rock Head,Description not available yet,Sturdy
+Luvdisc,Rendezvous Pokemon,Water,,(0.6m),(8.7 kg),Swift Swim,Hydration,Description not available yet,
+Bagon,Rock Head Pokemon,Dragon,,(0.6m),(42.1 kg),Rock Head,Sheer Force,Description not available yet,
+Shelgon,Endurance Pokemon,Dragon,,(1.1m),(110.5 kg),Rock Head,Overcoat,Description not available yet,
+Salamence,Dragon Pokemon,Dragon,Flying,(1.5m),(102.6 kg),Intimidate,Moxie,Description not available yet,
+Beldum,Iron Ball Pokemon,Steel,Psychic,(0.6m),(95.2 kg),Clear Body,Light Metal,Description not available yet,
+Metang,Iron Claw Pokemon,Steel,Psychic,(1.2m),(202.5 kg),Clear Body,Light Metal,Description not available yet,
+Metagross,Iron Leg Pokemon,Steel,Psychic,(1.6m),(550 kg),Clear Body,Light Metal,Description not available yet,
+Regirock,Rock Peak Pokemon,Rock,,(1.7m),(230 kg),Clear Body,Sturdy,Description not available yet,
+Regice,Iceberg Pokemon,Ice,,(1.8m),(175 kg),Clear Body,Ice Body,Description not available yet,
+Registeel,Iron Pokemon,Steel,,(1.9m),(205 kg),Clear Body,Light Metal,Description not available yet,
+Latias,Eon Pokemon,Dragon,Psychic,(1.4m),(40 kg),Levitate,,Description not available yet,
+Latios,Eon Pokemon,Dragon,Psychic,(2m),(60 kg),Levitate,,Description not available yet,
+Kyogre,Sea Basin Pokemon,Water,,(4.5m),(352 kg),Drizzle,,Description not available yet,
+Groudon,Continent Pokemon,Ground,,(3.5m),(950 kg),Drought,,Description not available yet,
+Rayquaza,Sky High Pokemon,Dragon,Flying,(7m),(206.5 kg),Air Lock,,Description not available yet,
+Jirachi,Wish Pokemon,Steel,Psychic,(0.3m),(1.1 kg),Serene Grace,,Description not available yet,
+Deoxys,DNA Pokemon,Psychic,,(1.7m),(60.8 kg),Pressure,,Description not available yet,
+Turtwig,Tiny Leaf Pokemon,Grass,,(0.4m),(10.2 kg),Overgrow,Shell Armor,Description not available yet,
+Grotle,Grove Pokemon,Grass,,(1.1m),(97 kg),Overgrow,Shell Armor,Description not available yet,
+Torterra,Continent Pokemon,Grass,Ground,(2.2m),(310 kg),Overgrow,Shell Armor,Description not available yet,
+Chimchar,Chimp Pokemon,Fire,,(0.5m),(6.2 kg),Blaze,Iron Fist,Description not available yet,
+Monferno,Playful Pokemon,Fire,Fighting,(0.9m),(22 kg),Blaze,Iron Fist,Description not available yet,
+Infernape,Flame Pokemon,Fire,Fighting,(1.2m),(55 kg),Blaze,Iron Fist,Description not available yet,
+Piplup,Penguin Pokemon,Water,,(0.4m),(5.2 kg),Torrent,Defiant,Description not available yet,
+Prinplup,Penguin Pokemon,Water,,(0.8m),(23 kg),Torrent,Defiant,Description not available yet,
+Empoleon,Emperor Pokemon,Water,Steel,(1.7m),(84.5 kg),Torrent,Defiant,Description not available yet,
+Starly,Starling Pokemon,Normal,Flying,(0.3m),(2 kg),Keen Eye,Reckless,Description not available yet,
+Staravia,Starling Pokemon,Normal,Flying,(0.6m),(15.5 kg),Intimidate,Reckless,Description not available yet,
+Staraptor,Predator Pokemon,Normal,Flying,(1.2m),(24.9 kg),Intimidate,Reckless,Description not available yet,
+Bidoof,Plump Mouse Pokemon,Normal,,(0.5m),(20 kg),Simple,Unaware,Description not available yet,Moody
+Bibarel,Beaver Pokemon,Normal,Water,(1m),(31.5 kg),Simple,Unaware,Description not available yet,Moody
+Kricketot,Cricket Pokemon,Bug,,(0.3m),(2.2 kg),Shed Skin,Run Away,Description not available yet,
+Kricketune,Cricket Pokemon,Bug,,(1m),(25.5 kg),Swarm,Technician,Description not available yet,
+Shinx,Flash Pokemon,Electric,,(0.5m),(9.5 kg),Rivalry,Intimidate,Description not available yet,Guts
+Luxio,Spark Pokemon,Electric,,(0.9m),(30.5 kg),Rivalry,Intimidate,Description not available yet,Guts
+Luxray,Gleam Eyes Pokemon,Electric,,(1.4m),(42 kg),Rivalry,Intimidate,Description not available yet,Guts
+Budew,Bud Pokemon,Grass,Poison,(0.2m),(1.2 kg),Natural Cure,Poison Point,Description not available yet,Leaf Guard
+Roserade,Bouquet Pokemon,Grass,Poison,(0.9m),(14.5 kg),Natural Cure,Poison Point,Description not available yet,Technician
+Cranidos,Head Butt Pokemon,Rock,,(0.9m),(31.5 kg),Mold Breaker,Sheer Force,Description not available yet,
+Rampardos,Head Butt Pokemon,Rock,,(1.6m),(102.5 kg),Mold Breaker,Sheer Force,Description not available yet,
+Shieldon,Shield Pokemon,Rock,Steel,(0.5m),(57 kg),Sturdy,Soundproof,Description not available yet,
+Bastiodon,Shield Pokemon,Rock,Steel,(1.3m),(149.5 kg),Sturdy,Soundproof,Description not available yet,
+Burmy,Bagworm Pokemon,Bug,,(0.2m),(3.4 kg),Shed Skin,Overcoat,Description not available yet,
+Wormadam,Bagworm Pokemon,Bug,Grass,(0.5m),(6.5 kg),Anticipation,Overcoat,Description not available yet,
+Mothim,Moth Pokemon,Bug,Flying,(0.9m),(23.3 kg),Swarm,Tinted Lens,Description not available yet,
+Combee,Tiny Bee Pokemon,Bug,Flying,(0.3m),(5.5 kg),Honey Gather,Hustle,Description not available yet,
+Vespiquen,Beehive Pokemon,Bug,Flying,(1.2m),(38.5 kg),Pressure,Unnerve,Description not available yet,
+Pachirisu,EleSquirrel Pokemon,Electric,,(0.4m),(3.9 kg),Run Away,Pickup,Description not available yet,Volt Absorb
+Buizel,Sea Weasel Pokemon,Water,,(0.7m),(29.5 kg),Swift Swim,Water Veil,Description not available yet,
+Floatzel,Sea Weasel Pokemon,Water,,(1.1m),(33.5 kg),Swift Swim,Water Veil,Description not available yet,
+Cherubi,Cherry Pokemon,Grass,,(0.4m),(3.3 kg),Chlorophyll,,Description not available yet,
+Cherrim,Blossom Pokemon,Grass,,(0.5m),(9.3 kg),Flower Gift,,Description not available yet,
+Shellos,Sea Slug Pokemon,Water,,(0.3m),(6.3 kg),Sticky Hold,Storm Drain,Description not available yet,Sand Force
+Gastrodon,Sea Slug Pokemon,Water,Ground,(0.9m),(29.9 kg),Sticky Hold,Storm Drain,Description not available yet,Sand Force
+Ambipom,Long Tail Pokemon,Normal,,(1.2m),(20.3 kg),Technician,Pickup,Description not available yet,Skill Link
+Drifloon,Balloon Pokemon,Ghost,Flying,(0.4m),(1.2 kg),Aftermath,Unburden,Description not available yet,Flare Boost
+Drifblim,Blimp Pokemon,Ghost,Flying,(1.2m),(15 kg),Aftermath,Unburden,Description not available yet,Flare Boost
+Buneary,Rabbit Pokemon,Normal,,(0.4m),(5.5 kg),Run Away,Klutz,Description not available yet,Limber
+Lopunny,Rabbit Pokemon,Normal,,(1.2m),(33.3 kg),Cute Charm,Klutz,Description not available yet,Limber
+Mismagius,Magical Pokemon,Ghost,,(0.9m),(4.4 kg),Levitate,,Description not available yet,
+Honchkrow,Big Boss Pokemon,Dark,Flying,(0.9m),(27.3 kg),Insomnia,Super Luck,Description not available yet,Moxie
+Glameow,Catty Pokemon,Normal,,(0.5m),(3.9 kg),Limber,Own Tempo,Description not available yet,Keen Eye
+Purugly,Tiger Cat Pokemon,Normal,,(1m),(43.8 kg),Thick Fat,Own Tempo,Description not available yet,Defiant
+Chingling,Bell Pokemon,Psychic,,(0.2m),(0.6 kg),Levitate,,Description not available yet,
+Stunky,Skunk Pokemon,Poison,Dark,(0.4m),(19.2 kg),Stench,Aftermath,Description not available yet,Keen Eye
+Skuntank,Skunk Pokemon,Poison,Dark,(1m),(38 kg),Stench,Aftermath,Description not available yet,Keen Eye
+Bronzor,Bronze Pokemon,Steel,Psychic,(0.5m),(60.5 kg),Levitate,Heatproof,Description not available yet,Heavy Metal
+Bronzong,Bronze Bell Pokemon,Steel,Psychic,(1.3m),(187 kg),Levitate,Heatproof,Description not available yet,Heavy Metal
+Bonsly,Bonsai Pokemon,Rock,,(0.5m),(15 kg),Sturdy,Rock Head,Description not available yet,Rattled
+Mime Jr.,Mime Pokemon,Psychic,Fairy,(0.6m),(13 kg),Soundproof,Filter,Description not available yet,Technician
+Happiny,Playhouse Pokemon,Normal,,(0.6m),(24.4 kg),Natural Cure,Serene Grace,Description not available yet,Friend Guard
+Chatot,Music Note Pokemon,Normal,Flying,(0.5m),(1.9 kg),Keen Eye,Tangled Feet,Description not available yet,Big Pecks
+Spiritomb,Forbidden Pokemon,Ghost,Dark,(1m),(108 kg),Pressure,Infiltrator,Description not available yet,
+Gible,Land Shark Pokemon,Dragon,Ground,(0.7m),(20.5 kg),Sand Veil,Rough Skin,Description not available yet,
+Gabite,Cave Pokemon,Dragon,Ground,(1.4m),(56 kg),Sand Veil,Rough Skin,Description not available yet,
+Garchomp,Mach Pokemon,Dragon,Ground,(1.9m),(95 kg),Sand Veil,Rough Skin,Description not available yet,
+Munchlax,Big Eater Pokemon,Normal,,(0.6m),(105 kg),Pickup,Thick Fat,Description not available yet,Gluttony
+Riolu,Emanation Pokemon,Fighting,,(0.7m),(20.2 kg),Steadfast,Inner Focus,Description not available yet,Prankster
+Lucario,Aura Pokemon,Fighting,Steel,(1.2m),(54 kg),Steadfast,Inner Focus,Description not available yet,Justified
+Hippopotas,Hippo Pokemon,Ground,,(0.8m),(49.5 kg),Sand Stream,Sand Force,Description not available yet,
+Hippowdon,Heavyweight Pokemon,Ground,,(2m),(300 kg),Sand Stream,Sand Force,Description not available yet,
+Skorupi,Scorpion Pokemon,Poison,Bug,(0.8m),(12 kg),Battle Armor,Sniper,Description not available yet,Keen Eye
+Drapion,Ogre Scorp Pokemon,Poison,Dark,(1.3m),(61.5 kg),Battle Armor,Sniper,Description not available yet,Keen Eye
+Croagunk,Toxic Mouth Pokemon,Poison,Fighting,(0.7m),(23 kg),Anticipation,Dry Skin,Description not available yet,Poison Touch
+Toxicroak,Toxic Mouth Pokemon,Poison,Fighting,(1.3m),(44.4 kg),Anticipation,Dry Skin,Description not available yet,Poison Touch
+Carnivine,Bug Catcher Pokemon,Grass,,(1.4m),(27 kg),Levitate,,Description not available yet,
+Finneon,Wing Fish Pokemon,Water,,(0.4m),(7 kg),Swift Swim,Storm Drain,Description not available yet,Water Veil
+Lumineon,Neon Pokemon,Water,,(1.2m),(24 kg),Swift Swim,Storm Drain,Description not available yet,Water Veil
+Mantyke,Kite Pokemon,Water,Flying,(1m),(65 kg),Swift Swim,Water Absorb,Description not available yet,Water Veil
+Snover,Frosted Tree Pokemon,Grass,Ice,(1m),(50.5 kg),Snow Warning,Soundproof,Description not available yet,
+Abomasnow,Frosted Tree Pokemon,Grass,Ice,(2.2m),(135.5 kg),Snow Warning,Soundproof,Description not available yet,
+Weavile,Sharp Claw Pokemon,Dark,Ice,(1.1m),(34 kg),Pressure,Pickpocket,Description not available yet,
+Magnezone,Magnet Area Pokemon,Electric,Steel,(1.2m),(180 kg),Magnet Pull,Sturdy,Description not available yet,Analytic
+Lickilicky,Licking Pokemon,Normal,,(1.7m),(140 kg),Own Tempo,Oblivious,Description not available yet,Cloud Nine
+Rhyperior,Drill Pokemon,Ground,Rock,(2.4m),(282.8 kg),Lightningrod,Solid Rock,Description not available yet,Reckless
+Tangrowth,Vine Pokemon,Grass,,(2m),(128.6 kg),Chlorophyll,Leaf Guard,Description not available yet,Regenerator
+Electivire,Thunderbolt Pokemon,Electric,,(1.8m),(138.6 kg),Motor Drive,Vital Spirit,Description not available yet,
+Magmortar,Blast Pokemon,Fire,,(1.6m),(68 kg),Flame Body,Vital Spirit,Description not available yet,
+Togekiss,Jubilee Pokemon,Fairy,Flying,(1.5m),(38 kg),Hustle,Serene Grace,Description not available yet,Super Luck
+Yanmega,Ogre Darner Pokemon,Bug,Flying,(1.9m),(51.5 kg),Speed Boost,Tinted Lens,Description not available yet,Frisk
+Leafeon,Verdant Pokemon,Grass,,(1m),(25.5 kg),Leaf Guard,Chlorophyll,Description not available yet,
+Glaceon,Fresh Snow Pokemon,Ice,,(0.8m),(25.9 kg),Snow Cloak,Ice Body,Description not available yet,
+Gliscor,Fang Scorp Pokemon,Ground,Flying,(2m),(42.5 kg),Hyper Cutter,Sand Veil,Description not available yet,Poison Heal
+Mamoswine,Twin Tusk Pokemon,Ice,Ground,(2.5m),(291 kg),Oblivious,Snow Cloak,Description not available yet,Thick Fat
+Porygon-Z,Virtual Pokemon,Normal,,(0.9m),(34 kg),Adaptability,Download,Description not available yet,Analytic
+Gallade,Blade Pokemon,Psychic,Fighting,(1.6m),(52 kg),Steadfast,Justified,Description not available yet,
+Probopass,Compass Pokemon,Rock,Steel,(1.4m),(340 kg),Sturdy,Magnet Pull,Description not available yet,Sand Force
+Dusknoir,Gripper Pokemon,Ghost,,(2.2m),(106.6 kg),Pressure,Frisk,Description not available yet,
+Froslass,Snow Land Pokemon,Ice,Ghost,(1.3m),(26.6 kg),Snow Cloak,Cursed Body,Description not available yet,
+Rotom,Plasma Pokemon,Electric,Ghost,(0.3m),(0.3 kg),Levitate,,Description not available yet,
+Uxie,Knowledge Pokemon,Psychic,,(0.3m),(0.3 kg),Levitate,,Description not available yet,
+Mesprit,Emotion Pokemon,Psychic,,(0.3m),(0.3 kg),Levitate,,Description not available yet,
+Azelf,Willpower Pokemon,Psychic,,(0.3m),(0.3 kg),Levitate,,Description not available yet,
+Dialga,Temporal Pokemon,Steel,Dragon,(5.4m),(683 kg),Pressure,Telepathy,Description not available yet,
+Palkia,Spatial Pokemon,Water,Dragon,(4.2m),(336 kg),Pressure,Telepathy,Description not available yet,
+Heatran,Lava Dome Pokemon,Fire,Steel,(1.7m),(430 kg),Flash Fire,Flame Body,Description not available yet,
+Regigigas,Colossal Pokemon,Normal,,(3.7m),(420 kg),Slow Start,,Description not available yet,
+Giratina,Renegade Pokemon,Ghost,Dragon,(4.5m),(750 kg),Pressure,Telepathy,Description not available yet,Levitate
+Cresselia,Lunar Pokemon,Psychic,,(1.5m),(85.6 kg),Levitate,,Description not available yet,
+Phione,Sea Drifter Pokemon,Water,,(0.4m),(3.1 kg),Hydration,,Description not available yet,
+Manaphy,Seafaring Pokemon,Water,,(0.3m),(1.4 kg),Hydration,,Description not available yet,
+Darkrai,Pitch-Black Pokemon,Dark,,(1.5m),(50.5 kg),Bad Dreams,,Description not available yet,
+Shaymin,Gratitude Pokemon,Grass,Grass,(0.2m),(2.1 kg),Natural Cure,Serene Grace,Description not available yet,
+Arceus,Alpha Pokemon,Normal,,(3.2m),(320 kg),Multitype,,Description not available yet,
+Victini,Victory Pokemon,Psychic,Fire,(0.4m),(4 kg),Victory Star,,Description not available yet,
+Snivy,Grass Snake Pokemon,Grass,,(0.6m),(8.1 kg),Overgrow,Contrary,Description not available yet,
+Servine,Grass Snake Pokemon,Grass,,(0.8m),(16 kg),Overgrow,Contrary,Description not available yet,
+Serperior,Regal Pokemon,Grass,,(3.3m),(63 kg),Overgrow,Contrary,Description not available yet,
+Tepig,Fire Pig Pokemon,Fire,,(0.5m),(9.9 kg),Blaze,Thick Fat,Description not available yet,
+Pignite,Fire Pig Pokemon,Fire,Fighting,(1m),(55.5 kg),Blaze,Thick Fat,Description not available yet,
+Emboar,Mega Fire Pig Pokemon,Fire,Fighting,(1.6m),(150 kg),Blaze,Reckless,Description not available yet,
+Oshawott,Sea Otter Pokemon,Water,,(0.5m),(5.9 kg),Torrent,Shell Armor,Description not available yet,
+Dewott,Discipline Pokemon,Water,,(0.8m),(24.5 kg),Torrent,Shell Armor,Description not available yet,
+Samurott,Formidable Pokemon,Water,,(1.5m),(94.6 kg),Torrent,Shell Armor,Description not available yet,
+Patrat,Scout Pokemon,Normal,,(0.5m),(11.6 kg),Run Away,Keen Eye,Description not available yet,Analytic
+Watchog,Lookout Pokemon,Normal,,(1.1m),(27 kg),Illuminate,Keen Eye,Description not available yet,Analytic
+Lillipup,Puppy Pokemon,Normal,,(0.4m),(4.1 kg),Vital Spirit,Pickup,Description not available yet,Run Away
+Herdier,Loyal Dog Pokemon,Normal,,(0.9m),(14.7 kg),Intimidate,Sand Rush,Description not available yet,Scrappy
+Stoutland,Big-Hearted Pokemon,Normal,,(1.2m),(61 kg),Intimidate,Sand Rush,Description not available yet,Scrappy
+Purrloin,Devious Pokemon,Dark,,(0.4m),(10.1 kg),Limber,Unburden,Description not available yet,Prankster
+Liepard,Cruel Pokemon,Dark,,(1.1m),(37.5 kg),Limber,Unburden,Description not available yet,Prankster
+Pansage,Grass Monkey Pokemon,Grass,,(0.6m),(10.5 kg),Gluttony,Overgrow,Description not available yet,
+Simisage,Thorn Monkey Pokemon,Grass,,(1.1m),(30.5 kg),Gluttony,Overgrow,Description not available yet,
+Pansear,High Temp Pokemon,Fire,,(0.6m),(11 kg),Gluttony,Blaze,Description not available yet,
+Simisear,Ember Pokemon,Fire,,(1m),(28 kg),Gluttony,Blaze,Description not available yet,
+Panpour,Spray Pokemon,Water,,(0.6m),(13.5 kg),Gluttony,Torrent,Description not available yet,
+Simipour,Geyser Pokemon,Water,,(1m),(29 kg),Gluttony,Torrent,Description not available yet,
+Munna,Dream Eater Pokemon,Psychic,,(0.6m),(23.3 kg),Forewarn,Synchronize,Description not available yet,Telepathy
+Musharna,Drowsing Pokemon,Psychic,,(1.1m),(60.5 kg),Forewarn,Synchronize,Description not available yet,Telepathy
+Pidove,Tiny Pigeon Pokemon,Normal,Flying,(0.3m),(2.1 kg),Big Pecks,Super Luck,Description not available yet,Rivalry
+Tranquill,Wild Pigeon Pokemon,Normal,Flying,(0.6m),(15 kg),Big Pecks,Super Luck,Description not available yet,Rivalry
+Unfezant,Proud Pokemon,Normal,Flying,(1.2m),(29 kg),Big Pecks,Super Luck,Description not available yet,Rivalry
+Blitzle,Electrified Pokemon,Electric,,(0.8m),(29.8 kg),Lightningrod,Motor Drive,Description not available yet,Sap Sipper
+Zebstrika,Thunderbolt Pokemon,Electric,,(1.6m),(79.5 kg),Lightningrod,Motor Drive,Description not available yet,Sap Sipper
+Roggenrola,Mantle Pokemon,Rock,,(0.4m),(18 kg),Sturdy,Weak Armor,Description not available yet,Sand Force
+Boldore,Ore Pokemon,Rock,,(0.9m),(102 kg),Sturdy,Weak Armor,Description not available yet,Sand Force
+Gigalith,Compressed Pokemon,Rock,,(1.7m),(260 kg),Sturdy,Sand Stream,Description not available yet,Sand Force
+Woobat,Bat Pokemon,Psychic,Flying,(0.4m),(2.1 kg),Unaware,Klutz,Description not available yet,Simple
+Swoobat,Courting Pokemon,Psychic,Flying,(0.9m),(10.5 kg),Unaware,Klutz,Description not available yet,Simple
+Drilbur,Mole Pokemon,Ground,,(0.3m),(8.5 kg),Sand Rush,Sand Force,Description not available yet,Mold Breaker
+Excadrill,Subterrene Pokemon,Ground,Steel,(0.7m),(40.4 kg),Sand Rush,Sand Force,Description not available yet,Mold Breaker
+Audino,Hearing Pokemon,Normal,,(1.1m),(31 kg),Healer,Regenerator,Description not available yet,Klutz
+Timburr,Muscular Pokemon,Fighting,,(0.6m),(12.5 kg),Guts,Sheer Force,Description not available yet,Iron Fist
+Gurdurr,Muscular Pokemon,Fighting,,(1.2m),(40 kg),Guts,Sheer Force,Description not available yet,Iron Fist
+Conkeldurr,Muscular Pokemon,Fighting,,(1.4m),(87 kg),Guts,Sheer Force,Description not available yet,Iron Fist
+Tympole,Tadpole Pokemon,Water,,(0.5m),(4.5 kg),Swift Swim,Hydration,Description not available yet,Water Absorb
+Palpitoad,Vibration Pokemon,Water,Ground,(0.8m),(17 kg),Swift Swim,Hydration,Description not available yet,Water Absorb
+Seismitoad,Vibration Pokemon,Water,Ground,(1.5m),(62 kg),Swift Swim,Poison Touch,Description not available yet,Water Absorb
+Throh,Judo Pokemon,Fighting,,(1.3m),(55.5 kg),Guts,Inner Focus,Description not available yet,Mold Breaker
+Sawk,Karate Pokemon,Fighting,,(1.4m),(51 kg),Sturdy,Inner Focus,Description not available yet,Mold Breaker
+Sewaddle,Sewing Pokemon,Bug,Grass,(0.3m),(2.5 kg),Swarm,Chlorophyll,Description not available yet,Overcoat
+Swadloon,Leaf-Wrapped Pokemon,Bug,Grass,(0.5m),(7.3 kg),Leaf Guard,Chlorophyll,Description not available yet,Overcoat
+Leavanny,Nurturing Pokemon,Bug,Grass,(1.2m),(20.5 kg),Swarm,Chlorophyll,Description not available yet,Overcoat
+Venipede,Centipede Pokemon,Bug,Poison,(0.4m),(5.3 kg),Poison Point,Swarm,Description not available yet,Speed Boost
+Whirlipede,Curlipede Pokemon,Bug,Poison,(1.2m),(58.5 kg),Poison Point,Swarm,Description not available yet,Speed Boost
+Scolipede,Megapede Pokemon,Bug,Poison,(2.5m),(200.5 kg),Poison Point,Swarm,Description not available yet,Speed Boost
+Cottonee,Cotton Puff Pokemon,Grass,Fairy,(0.3m),(0.6 kg),Prankster,Infiltrator,Description not available yet,Chlorophyll
+Whimsicott,Windveiled Pokemon,Grass,Fairy,(0.7m),(6.6 kg),Prankster,Infiltrator,Description not available yet,Chlorophyll
+Petilil,Bulb Pokemon,Grass,,(0.5m),(6.6 kg),Chlorophyll,Own Tempo,Description not available yet,Leaf Guard
+Lilligant,Flowering Pokemon,Grass,,(1.1m),(16.3 kg),Chlorophyll,Own Tempo,Description not available yet,Leaf Guard
+Basculin,Hostile Pokemon,Water,,(1m),(18 kg),Reckless,Rock Head,Description not available yet,Adaptability
+Sandile,Desert Croc Pokemon,Ground,Dark,(0.7m),(15.2 kg),Intimidate,Moxie,Description not available yet,Anger Point
+Krokorok,Desert Croc Pokemon,Ground,Dark,(1m),(33.4 kg),Intimidate,Moxie,Description not available yet,Anger Point
+Krookodile,Intimidation Pokemon,Ground,Dark,(1.5m),(96.3 kg),Intimidate,Moxie,Description not available yet,Anger Point
+Darumaka,Zen Charm Pokemon,Fire,,(0.6m),(37.5 kg),Hustle,Inner Focus,Description not available yet,
+Darmanitan,Blazing Pokemon,Fire,Fire,(1.3m),(92.9 kg),Sheer Force,Zen Mode,Description not available yet,
+Maractus,Cactus Pokemon,Grass,,(1m),(28 kg),Water Absorb,Chlorophyll,Description not available yet,Storm Drain
+Dwebble,Rock Inn Pokemon,Bug,Rock,(0.3m),(14.5 kg),Sturdy,Shell Armor,Description not available yet,Weak Armor
+Crustle,Stone Home Pokemon,Bug,Rock,(1.4m),(200 kg),Sturdy,Shell Armor,Description not available yet,Weak Armor
+Scraggy,Shedding Pokemon,Dark,Fighting,(0.6m),(11.8 kg),Shed Skin,Moxie,Description not available yet,Intimidate
+Scrafty,Hoodlum Pokemon,Dark,Fighting,(1.1m),(30 kg),Shed Skin,Moxie,Description not available yet,Intimidate
+Sigilyph,Avianoid Pokemon,Psychic,Flying,(1.4m),(14 kg),Wonder Skin ,Magic Guard,Description not available yet,Tinted Lens
+Yamask,Spirit Pokemon,Ghost,,(0.5m),(1.5 kg),Mummy,,Description not available yet,
+Cofagrigus,Coffin Pokemon,Ghost,,(1.7m),(76.5 kg),Mummy,,Description not available yet,
+Tirtouga,Prototurtle Pokemon,Water,Rock,(0.7m),(16.5 kg),Solid Rock,Sturdy,Description not available yet,Swift Swim
+Carracosta,Prototurtle Pokemon,Water,Rock,(1.2m),(81 kg),Solid Rock,Sturdy,Description not available yet,Swift Swim
+Archen,First Bird Pokemon,Rock,Flying,(0.5m),(9.5 kg),Defeatist,,Description not available yet,
+Archeops,First Bird Pokemon,Rock,Flying,(1.4m),(32 kg),Defeatist,,Description not available yet,
+Trubbish,Trash Bag Pokemon,Poison,,(0.6m),(31 kg),Stench,Sticky Hold,Description not available yet,Aftermath
+Garbodor,Trash Heap Pokemon,Poison,,(1.9m),(107.3 kg),Stench,Weak Armor,Description not available yet,Aftermath
+Zorua,Tricky Fox Pokemon,Dark,,(0.7m),(12.5 kg),Illusion,,Description not available yet,
+Zoroark,Illusion Fox Pokemon,Dark,,(1.6m),(81.1 kg),Illusion,,Description not available yet,
+Minccino,Chinchilla Pokemon,Normal,,(0.4m),(5.8 kg),Cute Charm,Technician,Description not available yet,Skill Link
+Cinccino,Scarf Pokemon,Normal,,(0.5m),(7.5 kg),Cute Charm,Technician,Description not available yet,Skill Link
+Gothita,Fixation Pokemon,Psychic,,(0.4m),(5.8 kg),Frisk,Competitive,Description not available yet,Shadow Tag
+Gothorita,Manipulate Pokemon,Psychic,,(0.7m),(18 kg),Frisk,Competitive,Description not available yet,Shadow Tag
+Gothitelle,Astral Body Pokemon,Psychic,,(1.5m),(44 kg),Frisk,Competitive,Description not available yet,Shadow Tag
+Solosis,Cell Pokemon,Psychic,,(0.3m),(1 kg),Overcoat,Magic Guard,Description not available yet,Regenerator
+Duosion,Mitosis Pokemon,Psychic,,(0.6m),(8 kg),Overcoat,Magic Guard,Description not available yet,Regenerator
+Reuniclus,Multiplying Pokemon,Psychic,,(1m),(20.1 kg),Overcoat,Magic Guard,Description not available yet,Regenerator
+Ducklett,Water Bird Pokemon,Water,Flying,(0.5m),(5.5 kg),Keen Eye,Big Pecks,Description not available yet,Hydration
+Swanna,White Bird Pokemon,Water,Flying,(1.3m),(24.2 kg),Keen Eye,Big Pecks,Description not available yet,Hydration
+Vanillite,Fresh Snow Pokemon,Ice,,(0.4m),(5.7 kg),Ice Body,Snow Cloak,Description not available yet,Weak Armor
+Vanillish,Icy Snow Pokemon,Ice,,(1.1m),(41 kg),Ice Body,Snow Cloak,Description not available yet,Weak Armor
+Vanilluxe,Snowstorm Pokemon,Ice,,(1.3m),(57.5 kg),Ice Body,Snow Warning,Description not available yet,Weak Armor
+Deerling,Season Pokemon,Normal,Grass,(0.6m),(19.5 kg),Chlorophyll,Sap Sipper,Description not available yet,Serene Grace
+Sawsbuck,Season Pokemon,Normal,Grass,(1.9m),(92.5 kg),Chlorophyll,Sap Sipper,Description not available yet,Serene Grace
+Emolga,Sky Squirrel Pokemon,Electric,Flying,(0.4m),(5 kg),Static,Motor Drive,Description not available yet,
+Karrablast,Clamping Pokemon,Bug,,(0.5m),(5.9 kg),Swarm,Shed Skin,Description not available yet,No Guard
+Escavalier,Cavalry Pokemon,Bug,Steel,(1m),(33 kg),Swarm,Shell Armor,Description not available yet,Overcoat
+Foongus,Mushroom Pokemon,Grass,Poison,(0.2m),(1 kg),Effect Spore,Regenerator,Description not available yet,
+Amoonguss,Mushroom Pokemon,Grass,Poison,(0.6m),(10.5 kg),Effect Spore,Regenerator,Description not available yet,
+Frillish,Floating Pokemon,Water,Ghost,(1.2m),(33 kg),Water Absorb,Cursed Body,Description not available yet,Damp
+Jellicent,Floating Pokemon,Water,Ghost,(2.2m),(135 kg),Water Absorb,Cursed Body,Description not available yet,Damp
+Alomomola,Caring Pokemon,Water,,(1.2m),(31.6 kg),Healer,Hydration,Description not available yet,Regenerator
+Joltik,Attaching Pokemon,Bug,Electric,(0.1m),(0.6 kg),Compoundeyes,Unnerve,Description not available yet,Swarm
+Galvantula,EleSpider Pokemon,Bug,Electric,(0.8m),(14.3 kg),Compoundeyes,Unnerve,Description not available yet,Swarm
+Ferroseed,Thorn Seed Pokemon,Grass,Steel,(0.6m),(18.8 kg),Iron Barbs,,Description not available yet,
+Ferrothorn,Thorn Pod Pokemon,Grass,Steel,(1m),(110 kg),Iron Barbs,Anticipation,Description not available yet,
+Klink,Gear Pokemon,Steel,,(0.3m),(21 kg),Plus,Minus,Description not available yet,Clear Body
+Klang,Gear Pokemon,Steel,,(0.6m),(51 kg),Plus,Minus,Description not available yet,Clear Body
+Klinklang,Gear Pokemon,Steel,,(0.6m),(81 kg),Plus,Minus,Description not available yet,Clear Body
+Tynamo,EleFish Pokemon,Electric,,(0.2m),(0.3 kg),Levitate,,Description not available yet,
+Eelektrik,EleFish Pokemon,Electric,,(1.2m),(22 kg),Levitate,,Description not available yet,
+Eelektross,EleFish Pokemon,Electric,,(2.1m),(80.5 kg),Levitate,,Description not available yet,
+Elgyem,Cerebral Pokemon,Psychic,,(0.5m),(9 kg),Telepathy,Synchronize,Description not available yet,Analytic
+Beheeyem,Cerebral Pokemon,Psychic,,(1m),(34.5 kg),Telepathy,Synchronize,Description not available yet,Analytic
+Litwick,Candle Pokemon,Ghost,Fire,(0.3m),(3.1 kg),Flash Fire,Flame Body,Description not available yet,Infiltrator
+Lampent,Lamp Pokemon,Ghost,Fire,(0.6m),(13 kg),Flash Fire,Flame Body,Description not available yet,Infiltrator
+Chandelure,Luring Pokemon,Ghost,Fire,(1m),(34.3 kg),Flash Fire,Flame Body,Description not available yet,Infiltrator
+Axew,Tusk Pokemon,Dragon,,(0.6m),(18 kg),Rivalry,Mold Breaker,Description not available yet,Unnerve
+Fraxure,Axe Jaw Pokemon,Dragon,,(1m),(36 kg),Rivalry,Mold Breaker,Description not available yet,Unnerve
+Haxorus,Axe Jaw Pokemon,Dragon,,(1.8m),(105.5 kg),Rivalry,Mold Breaker,Description not available yet,Unnerve
+Cubchoo,Chill Pokemon,Ice,,(0.5m),(8.5 kg),Snow Cloak,Slush Rush,Description not available yet,Rattled
+Beartic,Freezing Pokemon,Ice,,(2.6m),(260 kg),Snow Cloak,Slush Rush,Description not available yet,Swift Swim
+Cryogonal,Crystallizing Pokemon,Ice,,(1.1m),(148 kg),Levitate,,Description not available yet,
+Shelmet,Snail Pokemon,Bug,,(0.4m),(7.7 kg),Hydration,Shell Armor,Description not available yet,Overcoat
+Accelgor,Shell Out Pokemon,Bug,,(0.8m),(25.3 kg),Hydration,Sticky Hold,Description not available yet,Unburden
+Stunfisk,Trap Pokemon,Ground,Electric,(0.7m),(11 kg),Static,Limber,Description not available yet,Sand Veil
+Mienfoo,Martial Arts Pokemon,Fighting,,(0.9m),(20 kg),Inner Focus,Regenerator,Description not available yet,Reckless
+Mienshao,Martial Arts Pokemon,Fighting,,(1.4m),(35.5 kg),Inner Focus,Regenerator,Description not available yet,Reckless
+Druddigon,Cave Pokemon,Dragon,,(1.6m),(139 kg),Rough Skin,Sheer Force,Description not available yet,Mold Breaker
+Golett,Automaton Pokemon,Ground,Ghost,(1m),(92 kg),Iron Fist,Klutz,Description not available yet,No Guard
+Golurk,Automaton Pokemon,Ground,Ghost,(2.8m),(330 kg),Iron Fist,Klutz,Description not available yet,No Guard
+Pawniard,Sharp Blade Pokemon,Dark,Steel,(0.5m),(10.2 kg),Defiant,Inner Focus,Description not available yet,Pressure
+Bisharp,Sword Blade Pokemon,Dark,Steel,(1.6m),(70 kg),Defiant,Inner Focus,Description not available yet,Pressure
+Bouffalant,Bash Buffalo Pokemon,Normal,,(1.6m),(94.6 kg),Reckless,Sap Sipper,Description not available yet,Soundproof
+Rufflet,Eaglet Pokemon,Normal,Flying,(0.5m),(10.5 kg),Keen Eye,Sheer Force,Description not available yet,Hustle
+Braviary,Valiant Pokemon,Normal,Flying,(1.5m),(41 kg),Keen Eye,Sheer Force,Description not available yet,Defiant
+Vullaby,Diapered Pokemon,Dark,Flying,(0.5m),(9 kg),Big Pecks,Overcoat,Description not available yet,Weak Armor
+Mandibuzz,Bone Vulture Pokemon,Dark,Flying,(1.2m),(39.5 kg),Big Pecks,Overcoat,Description not available yet,Weak Armor
+Heatmor,Anteater Pokemon,Fire,,(1.4m),(58 kg),Gluttony,Flash Fire,Description not available yet,White Smoke
+Durant,Iron Ant Pokemon,Bug,Steel,(0.3m),(33 kg),Swarm,Hustle,Description not available yet,Truant
+Deino,Irate Pokemon,Dark,Dragon,(0.8m),(17.3 kg),Hustle,,Description not available yet,
+Zweilous,Hostile Pokemon,Dark,Dragon,(1.4m),(50 kg),Hustle,,Description not available yet,
+Hydreigon,Brutal Pokemon,Dark,Dragon,(1.8m),(160 kg),Levitate,,Description not available yet,
+Larvesta,Torch Pokemon,Bug,Fire,(1.1m),(28.8 kg),Flame Body,Swarm,Description not available yet,
+Volcarona,Sun Pokemon,Bug,Fire,(1.6m),(46 kg),Flame Body,Swarm,Description not available yet,
+Cobalion,Iron Will Pokemon,Steel,Fighting,(2.1m),(250 kg),Justified,,Description not available yet,
+Terrakion,Cavern Pokemon,Rock,Fighting,(1.9m),(260 kg),Justified,,Description not available yet,
+Virizion,Grassland Pokemon,Grass,Fighting,(2m),(200 kg),Justified,,Description not available yet,
+Tornadus,Cyclone Pokemon,Flying,,(1.5m),(63 kg),Prankster,Defiant,Description not available yet,Regenerator
+Thundurus,Bolt Strike Pokemon,Electric,Flying,(1.5m),(61 kg),Prankster,Defiant,Description not available yet,Volt Absorb
+Reshiram,Vast White Pokemon,Dragon,Fire,(3.2m),(330 kg),Turboblaze,,Description not available yet,
+Zekrom,Deep Black Pokemon,Dragon,Electric,(2.9m),(345 kg),Teravolt,,Description not available yet,
+Landorus,Abundance Pokemon,Ground,Flying,(1.5m),(68 kg),Sand Force,Sheer Force,Description not available yet,Intimidate
+Kyurem,Boundary Pokemon,Dragon,Ice,(3m),(325 kg),Pressure,Teravolt,Description not available yet,Turboblaze
+Keldeo,Colt Pokemon,Water,Fighting,(1.4m),(48.5 kg),Justified,,Description not available yet,
+Meloetta,Melody Pokemon,Normal,Psychic,(0.6m),(6.5 kg),Serene Grace,,Description not available yet,
+Genesect,Paleozoic Pokemon,Bug,Steel,(1.5m),(82.5 kg),Download,,Description not available yet,
+Chespin,Spiky Nut Pokemon,Grass,,(0.4m),(9 kg),Overgrow,Bulletproof,Description not available yet,
+Quilladin,Spiny Armor Pokemon,Grass,,(0.7m),(29 kg),Overgrow,Bulletproof,Description not available yet,
+Chesnaught,Spiny Armor Pokemon,Grass,Fighting,(1.6m),(90 kg),Overgrow,Bulletproof,Description not available yet,
+Fennekin,Fox Pokemon,Fire,,(0.4m),(9.4 kg),Blaze,Magician,Description not available yet,
+Braixen,Fox Pokemon,Fire,,(1m),(14.5 kg),Blaze,Magician,Description not available yet,
+Delphox,Fox Pokemon,Fire,Psychic,(1.5m),(39 kg),Blaze,Magician,Description not available yet,
+Froakie,Bubble Frog Pokemon,Water,,(0.3m),(7 kg),Torrent,Protean,Description not available yet,
+Frogadier,Bubble Frog Pokemon,Water,,(0.6m),(10.9 kg),Torrent,Protean,Description not available yet,
+Greninja,Ninja Pokemon,Water,Dark,(1.5m),(40 kg),Torrent,Protean,Description not available yet,Battle Bond
+Bunnelby,Digging Pokemon,Normal,,(0.4m),(5 kg),Pickup,Cheek Pouch,Description not available yet,Huge Power
+Diggersby,Digging Pokemon,Normal,Ground,(1m),(42.4 kg),Pickup,Cheek Pouch,Description not available yet,Huge Power
+Fletchling,Tiny Robin Pokemon,Normal,Flying,(0.3m),(1.7 kg),Big Pecks,Gale Wings,Description not available yet,
+Fletchinder,Ember Pokemon,Fire,Flying,(0.7m),(16 kg),Flame Body,Gale Wings,Description not available yet,
+Talonflame,Scorching Pokemon,Fire,Flying,(1.2m),(24.5 kg),Flame Body,Gale Wings,Description not available yet,
+Scatterbug,Scatterdust Pokemon,Bug,,(0.3m),(2.5 kg),Shield Dust,Compoundeyes,Description not available yet,Friend Guard
+Spewpa,Scatterdust Pokemon,Bug,,(0.3m),(8.4 kg),Shed Skin,Friend Guard,Description not available yet,
+Vivillon,Scale Pokemon,Bug,Flying,(1.2m),(17 kg),Shield Dust,Compoundeyes,Description not available yet,Friend Guard
+Litleo,Lion Cub Pokemon,Fire,Normal,(0.6m),(13.5 kg),Rivalry,Unnerve,Description not available yet,Moxie
+Pyroar,Royal Pokemon,Fire,Normal,(1.5m),(81.5 kg),Rivalry,Unnerve,Description not available yet,Moxie
+Flabebe,Single Bloom Pokemon,Fairy,,(0.1m),(0.1 kg),Flower Veil,Symbiosis,Description not available yet,
+Floette,Fairy Pokemon,Fairy,,(0.2m),(0.9 kg),Flower Veil,Symbiosis,Description not available yet,
+Florges,Garden Pokemon,Fairy,,(1.1m),(10 kg),Flower Veil,Symbiosis,Description not available yet,
+Skiddo,Mount Pokemon,Grass,,(0.9m),(31 kg),Sap Sipper,Grass Pelt,Description not available yet,
+Gogoat,Mount Pokemon,Grass,,(1.7m),(91 kg),Sap Sipper,Grass Pelt,Description not available yet,
+Pancham,Playful Pokemon,Fighting,,(0.6m),(8 kg),Iron Fist,Mold Breaker,Description not available yet,Scrappy
+Pangoro,Daunting Pokemon,Fighting,Dark,(2.1m),(136 kg),Iron Fist,Mold Breaker,Description not available yet,Scrappy
+Furfrou,Poodle Pokemon,Normal,,(1.2m),(28 kg),Fur Coat,,Description not available yet,
+Espurr,Restraint Pokemon,Psychic,,(0.3m),(3.5 kg),Keen Eye,Infiltrator,Description not available yet,Own Tempo
+Meowstic,Constraint Pokemon,Psychic,,(0.6m),(8.5 kg),Keen Eye,Infiltrator,Description not available yet,Prankster
+Honedge,Sword Pokemon,Steel,Ghost,(0.8m),(2 kg),No Guard,,Description not available yet,
+Doublade,Sword Pokemon,Steel,Ghost,(0.8m),(4.5 kg),No Guard,,Description not available yet,
+Aegislash,Royal Sword Pokemon,Steel,Ghost,(1.7m),(53 kg),Stance Change,,Description not available yet,
+Spritzee,Perfume Pokemon,Fairy,,(0.2m),(0.5 kg),Healer,Aroma Veil,Description not available yet,
+Aromatisse,Fragrance Pokemon,Fairy,,(0.8m),(15.5 kg),Healer,Aroma Veil,Description not available yet,
+Swirlix,Cotton Candy Pokemon,Fairy,,(0.4m),(3.5 kg),Sweet Veil,Unburden,Description not available yet,
+Slurpuff,Meringue Pokemon,Fairy,,(0.8m),(5 kg),Sweet Veil,Unburden,Description not available yet,
+Inkay,Revolving Pokemon,Dark,Psychic,(0.4m),(3.5 kg),Contrary,Suction Cups,Description not available yet,Infiltrator
+Malamar,Overturning Pokemon,Dark,Psychic,(1.5m),(47 kg),Contrary,Suction Cups,Description not available yet,Infiltrator
+Binacle,Two-Handed Pokemon,Rock,Water,(0.5m),(31 kg),Tough Claws,Sniper,Description not available yet,Pickpocket
+Barbaracle,Collective Pokemon,Rock,Water,(1.3m),(96 kg),Tough Claws,Sniper,Description not available yet,Pickpocket
+Skrelp,Mock Kelp Pokemon,Poison,Water,(0.5m),(7.3 kg),Poison Point,Poison Touch,Description not available yet,Adaptability
+Dragalge,Mock Kelp Pokemon,Poison,Dragon,(1.8m),(81.5 kg),Poison Point,Poison Touch,Description not available yet,Adaptability
+Clauncher,Water Gun Pokemon,Water,,(0.5m),(8.3 kg),Mega Launcher,,Description not available yet,
+Clawitzer,Howitzer Pokemon,Water,,(1.3m),(35.3 kg),Mega Launcher,,Description not available yet,
+Helioptile,Generator Pokemon,Electric,Normal,(0.5m),(6 kg),Dry Skin,Sand Veil,Description not available yet,Solar Power
+Heliolisk,Generator Pokemon,Electric,Normal,(1m),(21 kg),Dry Skin,Sand Veil,Description not available yet,Solar Power
+Tyrunt,Royal Heir Pokemon,Rock,Dragon,(0.8m),(26 kg),Strong Jaw,Sturdy,Description not available yet,
+Tyrantrum,Despot Pokemon,Rock,Dragon,(2.5m),(270 kg),Strong Jaw,Rock Head,Description not available yet,
+Amaura,Tundra Pokemon,Rock,Ice,(1.3m),(25.2 kg),Refrigerate,Snow Warning,Description not available yet,
+Aurorus,Tundra Pokemon,Rock,Ice,(2.7m),(225 kg),Refrigerate,Snow Warning,Description not available yet,
+Sylveon,Intertwining Pokemon,Fairy,,(1m),(23.5 kg),Cute Charm,Pixilate,Description not available yet,
+Hawlucha,Wrestling Pokemon,Fighting,Flying,(0.8m),(21.5 kg),Limber,Unburden,Description not available yet,Mold Breaker
+Dedenne,Antenna Pokemon,Electric,Fairy,(0.2m),(2.2 kg),Cheek Pouch,Pickup,Description not available yet,Plus
+Carbink,Jewel Pokemon,Rock,Fairy,(0.3m),(5.7 kg),Clear Body,Sturdy,Description not available yet,
+Goomy,Soft Tissue Pokemon,Dragon,,(0.3m),(2.8 kg),Sap Sipper,Hydration,Description not available yet,Gooey
+Sliggoo,Soft Tissue Pokemon,Dragon,,(0.8m),(17.5 kg),Sap Sipper,Hydration,Description not available yet,Gooey
+Goodra,Dragon Pokemon,Dragon,,(2m),(150.5 kg),Sap Sipper,Hydration,Description not available yet,Gooey
+Klefki,Key Ring Pokemon,Steel,Fairy,(0.2m),(3 kg),Prankster,Magician,Description not available yet,
+Phantump,Stump Pokemon,Ghost,Grass,(0.4m),(7 kg),Natural Cure,Frisk,Description not available yet,Harvest
+Trevenant,Elder Tree Pokemon,Ghost,Grass,(1.5m),(71 kg),Natural Cure,Frisk,Description not available yet,Harvest
+Pumpkaboo,Pumpkin Pokemon,Ghost,Grass,(0.8m),(15 kg),Pickup,Frisk,Description not available yet,Insomnia
+Gourgeist,Pumpkin Pokemon,Ghost,Grass,(1.7m),(39 kg),Pickup,Frisk,Description not available yet,Insomnia
+Bergmite,Ice Chunk Pokemon,Ice,,(1m),(99.5 kg),Own Tempo,Ice Body,Description not available yet,Sturdy
+Avalugg,Iceberg Pokemon,Ice,,(2m),(505 kg),Own Tempo,Ice Body,Description not available yet,Sturdy
+Noibat,Sound Wave Pokemon,Flying,Dragon,(0.5m),(8 kg),Frisk,Infiltrator,Description not available yet,Telepathy
+Noivern,Sound Wave Pokemon,Flying,Dragon,(1.5m),(85 kg),Frisk,Infiltrator,Description not available yet,Telepathy
+Xerneas,Life Pokemon,Fairy,,(3m),(215 kg),Fairy Aura,,Description not available yet,
+Yveltal,Destruction Pokemon,Dark,Flying,(5.8m),(203 kg),Dark Aura,,Description not available yet,
+Zygarde,Order Pokemon,Dragon,Ground,(5m),(284.6 kg),Aura Break,Power Construct,Description not available yet,
+Diancie,Jewel Pokemon,Rock,Fairy,(0.7m),(8.8 kg),Clear Body,,Description not available yet,
+Hoopa,Mischief Pokemon (Confined)Djinn Pokemonn (Unbound),Psychic,Ghost,(Nonem),(None kg),Magician,,Description not available yet,
+Volcanion,Steam Pokemon,Fire,Water,(1.7m),(195 kg),Water Absorb,,Description not available yet,
+Rowlet,Grass Quill Pokemon,Grass,Flying,(0.3m),(1.5 kg),Overgrow,Long Reach,Description not available yet,
+Dartrix,Blade Quill Pokemon,Grass,Flying,(0.7m),(16 kg),Overgrow,Long Reach,Description not available yet,
+Decidueye,Arrow Quill Pokemon,Grass,Ghost,(1.6m),(36.6 kg),Overgrow,Long Reach,Description not available yet,
+Litten,Fire Cat Pokemon,Fire,,(0.4m),(4.3 kg),Blaze,Intimidate,Description not available yet,
+Torracat,Fire Cat Pokemon,Fire,,(0.7m),(25 kg),Blaze,Intimidate,Description not available yet,
+Incineroar,Heel Pokemon,Fire,Dark,(1.8m),(83 kg),Blaze,Intimidate,Description not available yet,
+Popplio,Sea Lion Pokemon,Water,,(0.4m),(7.5 kg),Torrent,Liquid Voice,Description not available yet,
+Brionne,Pop Star Pokemon,Water,,(0.6m),(17.5 kg),Torrent,Liquid Voice,Description not available yet,
+Primarina,Soloist Pokemon,Water,Fairy,(1.8m),(44 kg),Torrent,Liquid Voice,Description not available yet,
+Pikipek,Woodpecker Pokemon,Normal,Flying,(0.3m),(1.2 kg),Keen Eye,Skill Link,Description not available yet,Pickup
+Trumbeak,Bugle Beak Pokemon,Normal,Flying,(0.6m),(14.8 kg),Keen Eye,Skill Link,Description not available yet,Pickup
+Toucannon,Cannon Pokemon,Normal,Flying,(1.1m),(26 kg),Keen Eye,Skill Link,Description not available yet,Sheer Force
+Yungoos,Loitering Pokemon,Normal,,(0.4m),(6 kg),Stakeout,Strong Jaw,Description not available yet,Adaptability
+Gumshoos,Stakeout Pokemon,Normal,,(0.7m),(14.2 kg),Stakeout,Strong Jaw,Description not available yet,Adaptability
+Grubbin,Larva Pokemon,Bug,,(0.4m),(4.4 kg),Swarm,,Description not available yet,
+Charjabug,Battery Pokemon,Bug,Electric,(0.5m),(10.5 kg),Battery,,Description not available yet,
+Vikavolt,Stag Beetle Pokemon,Bug,Electric,(1.5m),(45 kg),Levitate,,Description not available yet,
+Crabrawler,Boxing Pokemon,Fighting,,(0.6m),(7 kg),Hyper Cutter,Iron Fist,Description not available yet,Anger Point
+Crabominable,Woolly Crab Pokemon,Fighting,Ice,(1.7m),(180 kg),Hyper Cutter,Iron Fist,Description not available yet,Anger Point
+Oricorio,Dancing Pokemon,Fire,Flying,(0.6m),(3.4 kg),Dancer,,Description not available yet,
+Cutiefly,Bee Fly Pokemon,Bug,Fairy,(0.1m),(0.2 kg),Honey Gather,Shield Dust,Description not available yet,Sweet Veil
+Ribombee,Bee Fly Pokemon,Bug,Fairy,(0.2m),(0.5 kg),Honey Gather,Shield Dust,Description not available yet,Sweet Veil
+Rockruff,Puppy Pokemon,Rock,,(0.5m),(9.2 kg),Keen Eye,Vital Spirit,Description not available yet,Steadfast
+Lycanroc,Wolf Pokemon,Rock,,(Nonem),(None kg),Keen Eye,Sand Rush,Description not available yet,Steadfast
+Wishiwashi,Small Fry Pokemon,Water,,(0.2m),(0.3 kg),Schooling,,Description not available yet,
+Mareanie,Brutal Star Pokemon,Poison,Water,(0.4m),(8 kg),Merciless,Limber,Description not available yet,Regenerator
+Toxapex,Brutal Star Pokemon,Poison,Water,(0.7m),(14.5 kg),Merciless,Limber,Description not available yet,Regenerator
+Mudbray,Donkey Pokemon,Ground,,(1m),(110 kg),Own Tempo,Stamina,Description not available yet,Inner Focus
+Mudsdale,Draft Horse Pokemon,Ground,,(2.5m),(920 kg),Own Tempo,Stamina,Description not available yet,Inner Focus
+Dewpider,Water Bubble Pokemon,Water,Bug,(0.3m),(4 kg),Water Bubble,Water Absorb,Description not available yet,
+Araquanid,Water Bubble Pokemon,Water,Bug,(1.8m),(82 kg),Water Bubble,Water Absorb,Description not available yet,
+Fomantis,Sickle Grass Pokemon,Grass,,(0.3m),(1.5 kg),Leaf Guard,Contrary,Description not available yet,
+Lurantis,Bloom Sickle Pokemon,Grass,,(0.9m),(18.5 kg),Leaf Guard,Contrary,Description not available yet,
+Morelull,Illuminating Pokemon,Grass,Fairy,(0.2m),(1.5 kg),Illuminate,Effect Spore,Description not available yet,Rain Dish
+Shiinotic,Illuminating Pokemon,Grass,Fairy,(1m),(11.5 kg),Illuminate,Effect Spore,Description not available yet,Rain Dish
+Salandit,Toxic Lizard Pokemon,Poison,Fire,(0.6m),(4.8 kg),Corrosion,Oblivious,Description not available yet,
+Salazzle,Toxic Lizard Pokemon,Poison,Fire,(1.2m),(22.2 kg),Corrosion,Oblivious,Description not available yet,
+Stufful,Flailing Pokemon,Normal,Fighting,(0.5m),(6.8 kg),Fluffy,Klutz,Description not available yet,Cute Charm
+Bewear,Strong Arm Pokemon,Normal,Fighting,(2.1m),(135 kg),Fluffy,Klutz,Description not available yet,Unnerve
+Bounsweet,Fruit Pokemon,Grass,,(0.3m),(3.2 kg),Leaf Guard,Oblivious,Description not available yet,Sweet Veil
+Steenee,Fruit Pokemon,Grass,,(0.7m),(8.2 kg),Leaf Guard,Oblivious,Description not available yet,Sweet Veil
+Tsareena,Fruit Pokemon,Grass,,(1.2m),(21.4 kg),Leaf Guard,Queenly Majesty,Description not available yet,Sweet Veil
+Comfey,Posy Picker Pokemon,Fairy,,(0.1m),(0.3 kg),Flower Veil,Triage,Description not available yet,Natural Cure
+Oranguru,Sage Pokemon,Normal,Psychic,(1.5m),(76 kg),Inner Focus,Telepathy,Description not available yet,Symbiosis
+Passimian,Teamwork Pokemon,Fighting,,(2m),(82.8 kg),Receiver,Defiant,Description not available yet,
+Wimpod,Turn Tail Pokemon,Bug,Water,(0.5m),(12 kg),Wimp Out,,Description not available yet,
+Golisopod,Hard Scale Pokemon,Bug,Water,(2m),(108 kg),Emergency Exit,,Description not available yet,
+Sandygast,Sand Heap Pokemon,Ghost,Ground,(0.5m),(70 kg),Water Compaction,Sand Veil,Description not available yet,
+Palossand,Sand Castle Pokemon,Ghost,Ground,(1.3m),(250 kg),Water Compaction,Sand Veil,Description not available yet,
+Pyukumuku,Sea Cucumber Pokemon,Water,,(0.3m),(1.2 kg),Innards Out,Unaware,Description not available yet,
+Type: Null,Synthetic Pokemon,Normal,,(1.9m),(120.5 kg),Battle Armor,,Description not available yet,
+Silvally,Synthetic Pokemon,Normal,,(2.3m),(100.5 kg),RKS System,,Description not available yet,
+Minior,Meteor Pokemon,Rock,Flying,(0.3m),(40 kg),Shields Down,,Description not available yet,
+Komala,Drowsing Pokemon,Normal,,(0.4m),(19.9 kg),Comatose,,Description not available yet,
+Turtonator,Blast Turtle Pokemon,Fire,Dragon,(2m),(212 kg),Shell Armor,,Description not available yet,
+Togedemaru,Roly-Poly Pokemon,Electric,Steel,(0.3m),(3.3 kg),Iron Barbs,Lightningrod,Description not available yet,Sturdy
+Mimikyu,Disguise Pokemon,Ghost,Fairy,(0.2m),(0.7 kg),Disguise,,Description not available yet,
+Bruxish,Gnash Teeth Pokemon,Water,Psychic,(0.9m),(19 kg),Dazzling,Strong Jaw,Description not available yet,Wonder Skin 
+Drampa,Placid Pokemon,Normal,Dragon,(3m),(185 kg),Berserk,Sap Sipper,Description not available yet,Cloud Nine
+Dhelmise,Sea Creeper Pokemon,Ghost,Grass,(3.9m),(210 kg),Steelworker,,Description not available yet,
+Jangmo-o,Scaly Pokemon,Dragon,,(0.6m),(29.7 kg),Bulletproof,Soundproof,Description not available yet,Overcoat
+Hakamo-o,Scaly Pokemon,Dragon,Fighting,(1.2m),(47 kg),Bulletproof,Soundproof,Description not available yet,Overcoat
+Kommo-o,Scaly Pokemon,Dragon,Fighting,(1.6m),(78.2 kg),Bulletproof,Soundproof,Description not available yet,Overcoat
+Tapu Koko,Land Spirit Pokemon,Electric,Fairy,(1.8m),(20.5 kg),Electric Surge,Telepathy,Description not available yet,
+Tapu Lele,Land Spirit Pokemon,Psychic,Fairy,(1.2m),(18.6 kg),Psychic Surge,Telepathy,Description not available yet,
+Tapu Bulu,Land Spirit Pokemon,Grass,Fairy,(1.9m),(45.5 kg),Grassy Surge,Telepathy,Description not available yet,
+Tapu Fini,Land Spirit Pokemon,Water,Fairy,(1.3m),(21.2 kg),Misty Surge,Telepathy,Description not available yet,
+Cosmog,Nebula Pokemon,Psychic,,(0.2m),(0.1 kg),Unaware,,Description not available yet,
+Cosmoem,Protostar Pokemon,Psychic,,(0.1m),(999.9 kg),Sturdy,,Description not available yet,
+Solgaleo,Sunne Pokemon,Psychic,Steel,(3.4m),(230 kg),Full Metal Body,,Description not available yet,
+Lunala,Moone Pokemon,Psychic,Ghost,(4m),(120 kg),Shadow Shield,,Description not available yet,
+Nihilego,Parasite Pokemon,Rock,Poison,(1.2m),(55.5 kg),Beast Boost,,Description not available yet,
+Buzzwole,Swollen Pokemon,Bug,Fighting,(2.4m),(333.6 kg),Beast Boost,,Description not available yet,
+Pheromosa,Lissome Pokemon,Bug,Fighting,(1.8m),(25 kg),Beast Boost,,Description not available yet,
+Xurkitree,Glowing Pokemon,Electric,,(3.8m),(100 kg),Beast Boost,,Description not available yet,
+Celesteela,Launch Pokemon,Steel,Flying,(9.2m),(999.9 kg),Beast Boost,,Description not available yet,
+Kartana,Drawn Sword Pokemon,Grass,Steel,(0.3m),(0.1 kg),Beast Boost,,Description not available yet,
+Guzzlord,Junkivore Pokemon,Dark,Dragon,(5.5m),(888 kg),Beast Boost,,Description not available yet,
+Necrozma,Prism Pokemon,Psychic,,(2.4m),(230 kg),Prism Armor,,Description not available yet,
+Magearna,Artificial Pokemon,Steel,Fairy,(1m),(80.5 kg),Soul-Heart,,Description not available yet,

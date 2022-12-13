@@ -11,7 +11,7 @@ const PORT = process.env.PORT;
 const createPokemonData = async () => {
   console.log("---start generating pokemon data---");
   console.log("-----------------------------------");
-  let pokemonNewData = await csv().fromFile("pokemons.csv");
+  let pokemonNewData = await csv({}).fromFile("pokemons.csv");
 
   pokemonNewData = pokemonNewData
     .map((pokemon) => {
@@ -21,6 +21,13 @@ const createPokemonData = async () => {
       const pokemonObject = {
         id,
         name: _.lowerCase(pokemon.Name),
+        description: pokemon.Description,
+        height: _.lowerCase(pokemon.Height),
+        weight: _.lowerCase(pokemon.Weight),
+        category: _.capitalize(pokemon.Category),
+        abilities: [_.capitalize(pokemon.Ability1)].filter(
+          (ability) => ability
+        ),
         types: [_.lowerCase(pokemon.Type1), _.lowerCase(pokemon.Type2)].filter(
           (type) => type
         ),
