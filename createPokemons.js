@@ -6,7 +6,7 @@ const _ = require("lodash");
 let id = 0;
 const DOMAIN_NAME = process.env.DOMAIN_NAME;
 const PROTOCOL = process.env.PROTOCOL;
-const PORT = process.env.PORT;
+// const PORT = process.env.PORT;
 
 const createPokemonData = async () => {
   console.log("---start generating pokemon data---");
@@ -31,7 +31,8 @@ const createPokemonData = async () => {
         types: [_.lowerCase(pokemon.Type1), _.lowerCase(pokemon.Type2)].filter(
           (type) => type
         ),
-        url: `${PROTOCOL}://${DOMAIN_NAME}:${PORT}/images/${id}.png`,
+        url: `${PROTOCOL}://${DOMAIN_NAME}/images/${id}.png`,
+        // url: `${PROTOCOL}://${DOMAIN_NAME}:${PORT}/images/${id}.png`,
       };
       return pokemonObject;
     })
